@@ -1,0 +1,106 @@
+65Microsoft 2015 Citizenship Report
+7.3 Our Business Practices
+Greenhouse Gas (GHG) Emissions
+Direct Emissions
+Gross Scope 1 Emissions, mtCO2e 85,188
+      Gross Scope 1 Emissions, by GHG type, mtCO2e
+      CO2 72,043
+      CH4 22
+      N2O 137
+      HFCs 12,986
+Scope 1 Emissions Balanced by Carbon  
+Offset Purchases, mtCO2e
+(85,188)
+Net Scope 1 Emissions, mtCO2e 0
+Indirect Emissions
+Gross Scope 2 Emissions, mtCO2e 1,521,370
+Scope 2 Emissions balanced by Green Power 
+Purchases, mtCO2e
+(1,520,145)
+Scope 2 Emissions balanced by Carbon Offset 
+Purchases, mtCO2e
+(1,225)
+Net Scope 2 Emissions, mtCO2e 0
+Indirect Emissions (continued)
+      Gross Scope 3 Emissions, mtCO2e
+      Purchased Goods and Services 17 8,000,000
+      Capital Goods 17 200,000
+      Fuel- and Energy-Related Activities  
+      (not included in Scope 1 or 2)
+283,234
+      Upstream Transportation and Distribution 17 100,000
+      Waste Generated in Operations 2,441
+      Downstream Leased Assets 2,837
+      Business Air Travel 310,117
+      Business Travel, other 5,152
+      Scope 3 Emissions, Business Air Travel,  
+      balanced by Carbon Offset Purchases,        
+      mtCO2e
+(310,117)
+      Net Scope 3 Emissions, Business Air Travel,              
+      mtCO2e
+0
+Energy
+Total Energy Use, MWh 18 3,570,438
+      Total Energy Use by Type, MWh
+      Fuel 319,313
+      Electricity 18 3,240,620
+      Heat 0
+      Steam 1,410
+      Cooling 9,095
+Renewable Energy Purchased or Generated and 
+Consumed, MWh 18
+3,240,620
+Renewable Energy Purchased or Generated and 
+Consumed, % of Total Energy Use
+91%
+      Renewable Energy Purchased or Generated  
+      and Consumed by Source, MWh
+      Wind 3,130,592
+      Landfill gas 3,971
+      Biomass 77,100
+      Hydro 28,340
+      On-Site Solar PV 617
+Non-Renewable Energy Use, MWh 329,818
+Non-Renewable Energy Use, % of Total  
+Energy Use
+9%
+    
+Carbon Offsets
+Total Purchase of Carbon Offsets, mtCO2e 396,531
+Total Direct GHG Emissions balanced by Carbon 
+Offset Purchases, %
+100%
+Total Indirect GHG Emissions Balanced by 
+Carbon Offset Purchases, %
+17%
+Total Sale of Carbon Offsets, mtCO2e 0
+Total Use of Carbon Sequestration/Capture 0
+    
+16 Note that because the CDP reporting deadline closes in May before 
+the end of our fiscal year, the most recent CDP carbon footprint  
+data we have available and verified is for FY14, not FY15. We will  
+disclose updated FY15 data before the end of the calendar year at 
+www.microsoft.com/transparencyhub. Our greenhouse gas and 
+energy data provided in our CDP filings and this report represent 100 
+percent of Microsoft’s global operations and revenue.
+17 The reported emissions for this category represent an estimate based 
+on broad-based assumptions and have therefore been rounded. This 
+category may be under- or over-reported by as much as 50 percent.
+18 Energy (electricity) data includes on-site solar generation as well as all 
+electricity purchased and consumed.
+ mtCO2e = metric tons CO2 equivalent; MWh = megawatt hours.
+The following graphs and charts detail the highlights of our most recent filing with CDP and trends in our 
+greenhouse gas emissions and energy use.16
+Our Company Our People Human Rights Responsible  
+Sourcing and 
+Manufacturing
+Ethical Business 
+Conduct and 
+Governance
+Environmental 
+Sustainability
+Empowering 
+Communities
+Performance 
+Highlights

@@ -1,0 +1,98 @@
+43Microsoft 2015 Citizenship Report
+Privacy and Data Security
+Microsoft has also worked to champion our view 
+that while technology has a critical role itself in 
+protecting people’s rights and keeping people 
+safe, technology and the Internet must be gov-
+erned by law. To that end, both on our own and in 
+collaboration with others in our industry, Microsoft 
+is pushing for reform in government surveillance 
+practices. We fought for and won the right to 
+increase our disclosure on the volume of national 
+security orders for customer data we receive 
+from the US government. We’ve very publicly 
+advocated that governments need to create a 
+new international legal framework to ensure that 
+governments seek information about the private 
+citizens of other participating countries only 
+pursuant to legal rules and due process. 
+Throughout FY15, we engaged in an ongoing 
+legal challenge to the US government’s attempt 
+to mandate that we turn over a customer’s email 
+content stored in our datacenter located in Ireland. 
+We have gained support from more than two 
+dozen leading technology and media companies 
+to argue that digital information must be afforded 
+the same legal protections as physical documents 
+and correspondence. Beyond addressing this spe-
+cific case, we have also advocated about the ways 
+to best protect privacy, ensure that governments 
+keep people safe, and respect national sovereignty 
+while preserving the global nature of the Internet.
+To help inform the public debate about the 
+best ways to balance privacy and security and 
+in keeping with our longstanding commitment 
+to transparency, we publish a semi-annual Law 
+Enforcement Requests Report and clearly outline 
+our well-documented practices for responding 
+to government demands for customer data. 
+The report includes the number of demands we 
+receive and the number of accounts or identifiers 
+that may be affected by these demands. We also 
+provide details on the number of demands we 
+complied with and, if we complied, whether we 
+provided content or non-content data. In addition, 
+as a result of a concerted effort by Microsoft and 
+our industry partners, we are now permitted to 
+publish data about the number of legal demands 
+we receive from the US government pursuant to 
+national security laws. 
+5.3 Global Network Initiative
+Microsoft is a founding member and sits on the board of the Global Network 
+Initiative (GNI), a collaborative effort between ICT companies, civil society 
+organizations, socially responsible investors, and academics. GNI provides a set of 
+Principles and Implementation Guidelines regarding practical steps and policies ICT 
+companies can adopt to respect and advance the freedom of expression and privacy 
+rights of their users when faced with governmental demands. 
+The GNI provides for a series of independent 
+assessments conducted every other year by an 
+independent assessor accredited by the GNI 
+Board, on how its member companies are imple-
+menting the GNI Principles. The independent 
+assessor reviews the policies and procedures 
+adopted by the company in accordance with the 
+GNI guidelines and looks at how the policies and 
+procedures were implemented in real-world cases. 
+Based on the results of the most recent assess-
+ment and engagement with Microsoft, the GNI 
+Board determined that Microsoft is compliant with 
+the GNI Principles. The assessment found that the 
+systems, policies, and procedures that Microsoft 
+relies upon to implement the GNI Principles 
+are both mature and subject to ongoing review 
+with an eye to continuous improvement. The 
+GNI’s public report on the results of its Phase III 
+company assessments is available online.
+As part of our commitment to GNI and under 
+our Global Human Rights Statement, Microsoft 
+has independent experts in business and human 
+rights conduct Human Rights Impact Assessments 
+(HRIAs) of specific parts of our business. The HRIAs 
+include independent research, internal interviews, 
+and engagement with external stakeholders to 
+identify relevant human rights risks and oppor-
+tunities for specific Microsoft products, services, 
+business relationships, and markets. 
+5.2
+Our Company Our People Human Rights Responsible  
+Sourcing and 
+Manufacturing
+Ethical Business 
+Conduct and 
+Governance
+Environmental 
+Sustainability
+Empowering 
+Communities
+Performance 
+Highlights

@@ -1,0 +1,101 @@
+                                                                                                                                                         
+                                                         Fiscal      Y ear     2017       Natural         Gas      and                                   
+                                                         Electricity          Use                                                                        
+                                                                                                                                                         
+                                                         The  chart below  provides  a detailed breakdown   of fiscal year 2017  energy                  
+                                                         use, which  is  used  to  calculate  our  carbon  emissions.                                    
+                                                                                                                                                         
+                                                                                                                                                         
+              Fiscal  Year  2017                                                                                                                         
+                                                                                                                                                         
+                                                              Natural  Gas                                     Electricity                               
+                                                                                                                                                         
+                                                                                                                                                         
+                         Location                  Total  Gas           Renewable  Biogas        Total  Electricity    Renewable  Electricity            
+                                                   (mmBTU)                 (mmBTU)                (million  kWh)          (million  kWh)                 
+                                                                                                                                                         
+              Corporate                    556,970                 85,990                  544                      488                                  
+              Cupertino,  CA               467,280                 85,990                  305                      305                                  
+              Elk  Grove,  CA              9930                    0                       15                       15                                   
+              Austin,  TX                  6180                    0                       56                       56                                   
+              Other  U.S.                  21,750                  0                       19                       19                                   
+              Cork,  Ireland               13,420                  0                       13                       13                                   
+              Singapore                    540                     0                       19                       19                                   
+              China                        4070                    0                       24                       24                                   
+              Other  International         33,800                  0                       93                       37                                   
+                                                                                                                                                         
+              Data  centers                575,600                 575,040                 1106                     1103                                 
+              Maiden,  NC                  575,040                 575,040                 273                      273                                  
+              Newark,  CA                  0                       0                       118                      118                                  
+              Prineville,  OR              520                     0                       195                      195                                  
+              Reno,  NV                    0                       0                       186                      186                                  
+              Mesa,  AZ                    40                      0                       45                       45                                   
+              Viborg,  Denmark             —                       —                       <1                       <1                                   
+              Colocation  Facilities  (USA)¹  N/A                  N/A                     228                      228                                  
+              Colocation  Facilities  (International)¹ N/A         N/A                     61                       58                                   
+                                                                                                                                                         
+              Retail  stores               92,600                  0                       182                      179                                  
+              Domestic  (U.S.)             46,800                  0                       96                       96                                   
+              International                45,800                  0                       86                       83                                   
+                                                                                                                                                         
+              Totals                       1,225,170               661,030                 1832                     1770                                 
+                                                                                                                                                         
+              Percent  Renewable²                                  54%                                              97%                                  
+                                                                                                                                                         
+                                                                                                                                                         
+             — Data  not tracked                                                                                                                         
+             N/A  = Gas  use  at  colocation facilities  are  considered  outside  of  Apple’s  operational control.                                     
+             ¹  W  e’ve updated  our  FY2016  colocation  facilities  footprint  to  reflect  more  accurately  Apple’s  operational  boundaries. Per  th
+              colocation  facility  cooling  and  building operations.  This  energy use,  however, is  still  covered  by  renewable  energy.           
+             ²    We calculate  our  progress  toward  100 percent  renewable energy  on  a calendar  year  basis.  In calendar  year  2017,  97  percent
+              January  1,  2018,  we are  at  100  percent.                                                                                              
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                         Environmental  Responsibility  Report   |    2018 Progress  Report,  Covering  FY2017 51        

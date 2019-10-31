@@ -1,0 +1,88 @@
+                                                                                                                                                         
+              Fiscal  Year  2013                                                                                                                         
+                                                               Scope 1¹                                        Scope 2²                                  
+                                                                                                                                                         
+                                                                                                                                                         
+                         Location            Default  Utility  Emissions³ Apple  Emissions                                                               
+                                                                     (incl.  Renewable  Energy) Default  Utility Emissions³ Apple  Emissions             
+                                                                                                                      (incl.  Renewable  Energy)         
+              Corporate                    15,211                  13,727                  85,354                   17,503                               
+              Cupertino,  CA               12,231                  10,747                  43,116                   0                                    
+              Elk  Grove,  CA              509                     509                     4400                     0                                    
+              Austin,  TX                  83                      83                      12,162                   0                                    
+              Other  U.S.                  337                     337                     2463                     0                                    
+              Cork,  Ireland               743                     743                     5320                     0                                    
+              Singapore                    50                      50                      5826                     5826                                 
+              China                        390                     390                     7490                     7490                                 
+              Other  International         868                     868                     4578                     4187                                 
+              Data  centers                19,360                  2201                    123,855                  0                                    
+              Maiden,  NC                  19,360                  2201                    75,836                   0                                    
+              Newark,  CA                  0                       0                       36,959                   0                                    
+              Prineville,  OR              0                       0                       9965                     0                                    
+              Reno,  NV                    0                       0                       1095                     0                                    
+                                                                                                                                                         
+              Retail  stores               6158                    6158                    77,425                   74,002                               
+              Domestic  (U.S.)             3548                    3548                    44,606                   44,606                               
+              International                2610                    2610                    32,819                   29,397                               
+                                                                                                                                                         
+              Totals                       40,729                  22,086                  286,634                  91,505                               
+              Fiscal  Year  2012                                                                                                                         
+                                                                                                                                                         
+              Corporate                    13,160                  15,423                  84,611                   48,215                               
+              Cupertino,  CA               10,949                  13,256                  39,457                   25,450                               
+              Elk  Grove,  CA              560                     369                     6952                     0                                    
+              Austin,  TX                  59                      233                     10,635                   0                                    
+              Other  U.S.                  237                     121                     4265                     4265                                 
+              Cork,  Ireland               715                     892                     4801                     0                                    
+              Singapore                    32                      0                       4946                     4946                                 
+              China                        —                       117                     1049                     1049                                 
+              Other  International         609                     435                     12,505                   12,505                               
+                                                                                                                                                         
+              Data  centers                146                     46                      87,732                   7664                                 
+              Maiden,  NC                  146                     146                     52,977                   0                                    
+              Newark,  CA                  0                       0                       33,492                   7664                                 
+              Prineville,  OR              0                       0                       1263                     0                                    
+                                                                                                                                                         
+              Retail  stores               2812                    2812                    83,285                   83,285                               
+              Domestic  (U.S.)             787                     787                     —                        —                                    
+              International                2025                    2025                    —                        —                                    
+                                                                                                                                                         
+              Totals                       16,118                  14,301                  255,628                  139,164                              
+              Fiscal  Year  2011                                                                                                                         
+                                                                                                                                                         
+              Corporate                    14,425                  12,656                  82,183                   59,516                               
+              Cupertino,  CA               11,007                  9238                    39,428                   39,428                               
+              Elk  Grove,  CA              556                     556                     7930                     0                                    
+              Austin,  TX                  45                      45                      10,139                   0                                    
+              Other  U.S.                  564                     564                     2141                     2141                                 
+              Cork,  Ireland               804                     804                     4598                     0                                    
+              Singapore                    —                       —                       3243                     3243                                 
+              China                        —                       —                       280                      280                                  
+              Other  International         1449                    1449                    14,424                   14,424                               
+                                                                                                                                                         
+              Data  centers                0                       0                       51,651                   28,988                               
+              Maiden,  NC                  0                       0                       22,663                   0                                    
+              Newark,  CA                  0                       0                       28,988                   28,988                               
+                                                                                                                                                         
+              Retail  stores               2600                    2600                    65,769                   65,769                               
+              Domestic  (U.S.)             746                     746                     —                        —                                    
+              International                1854                    1854                    —                        —                                    
+                                                                                                                                                         
+              Totals                       17,025                  15,256                  199,603                  154,273                              
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+             Notes:                                                                                                                                      
+             — Energy  source not  yet  online.                                                                                                          
+             ¹Scope  1  emissions result  from  natural  gas  use  for facilities, and  gasoline  use  for  fleet  vehicles.  As  is typical,  these  emi
+             ²Scope  2  emissions  result  from  electricity  use  for facilities.  In addition,  in  fiscal  year 2014,  Apple  owned  a  facility  in  
+             CO2e  and effective  emissions  of  0 tons  CO2e  in  fiscal year  2014. It  was  removed  from operation  in  fiscal year  2015.           
+             ³Default  Utility Emissions  are  based  on  utility-scale  and  regional  default  grid emission  factors  (using  the most granular  data 
+             ?In  FY2016,  we  began tracking electricity used  at  colocation  facilities  as  part of  Apple’s footprint.                              
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                           Environmental  Responsibility  Report    |    2017 Progress  Report,  Covering  FY2016 39     

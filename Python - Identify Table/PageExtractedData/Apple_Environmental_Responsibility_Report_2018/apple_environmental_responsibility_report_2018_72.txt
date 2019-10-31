@@ -1,0 +1,37 @@
+72Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+ 
+ 
+ 
+  
+ 
+ 
+  
+Packaging Plastic Footprint Review  
+Client: Apple Inc. 1 
+Review Statement 
+Packaging Plastic Footprint 
+Fraunhofer IZM reviewed Apple’s packaging plastic footprint data related to packaging 
+plastic usage from products and retail operations in fiscal year 2017.  
+ 
+1 Summary 
+This review checks transparency of data and calculations, appropriateness of supporting 
+product and packaging related data and assumptions, and overall plausibility of the 
+calculated annual packaging plastic footprint of Apple products shipped in fiscal year 2017 
+and of retail operations in the same period.  
+As there is no standardised method available for calculating a packaging plastic footprint 
+Apple defined a methodology for internal use. The scope of the plastic packaging footprint 
+includes Apple’s packaging plastic usage from products and retail operations. The 
+packaging plastic footprint tracks the total amount of plastic, adhesives, and ink, that 
+Apple uses in packaging. Apple obtains and analyses supplier-specific data for each product 
+line and sums up these figures for the entire company using sell-in numbers. The output is 
+a total packaging plastic footprint.  
+The review of the annual packaging plastic footprint has considered the following criteria: 
+? The system boundaries are clearly defined 
+? Assumptions and estimations made are appropriate 
+? Use of supplier data is appropriate and methodologies used are adequately 
+disclosed 
+Data reported by Apple is as follows: 
+ Total Plastic 
+2017 24,000 
+ [metric tons plastic] 
+ 

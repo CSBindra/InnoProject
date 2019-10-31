@@ -1,0 +1,44 @@
+46Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+Energy Use and Emissions at Apple’s Colocation Facilities
+Energy Use 
+(kWh)
+Renewable 
+Energy (kWh)
+Default Utility  
+Emissions¹  
+(metric tons CO?e)
+Apple’s Emissions - 
+including renewable 
+energy² 
+(metric tons CO?e)
+%  
+Renewable 
+Energy
+FY2011 42,524 0 12 12 0%
+FY2012 38,552,271 1,471,680 17,220 16,543 4%
+FY2013 79,462,860 46,966,891 31,757 14,493 59%
+FY2014 108,659,693 88,553,380 44,338 10,976 81%
+FY2015 142,615,026 121,086,061 60,495 12,740 85%
+FY2016³ 180,205,500 176,774,556 83,800 2269 98%
+¹We calculate “default utility emissions” to provide baseline emissions of what our carbon footprint would have been without the use of 
+renewable energy. This allows us to demonstrate the savings resulting from our renewable energy program.
+²Apple’s greenhouse gas emissions are calculated using the World Resources Institute Greenhouse Gas Protocol methodology for 
+calculating market-based emissions.
+³Over the past two years, we have been installing submeters in colocation facilities to better track electricity usage. Beginning in FY2016, 
+we are reporting this submetered electricity usage. Prior to FY2016, reported electricity usage was conservatively estimated based on 
+maximum contract capacity quantities.
+Regional Energy Use at Apple’s Colocation Facilities  
+(Fiscal Year 2016)      
+    
+Energy Use
+(kWh)
+Renewable Energy
+(kWh)
+% 
+Renewable Energy
+U.S. 127,286,720 127,286,720 100%
+Europe 27,576,768 27,576,768 100%
+APAC 24,750,670 21,906,038 89%*
+Other 591,342 0 0%
+FY2016 Total 180,205,500 176,769,526 98%
+*This value became 100 percent starting January 2016, bringing the total renewable energy figure to 99 percent for calendar year 2016.

@@ -1,0 +1,159 @@
+20 Barclays PLC Environmental Social Governance Report 2018 home.barclays/annualreport
+Data privacy
+Most countries in which Barclays has a 
+presence have privacy laws governing the 
+collection, use and disclosure of personal 
+data, or are considering their introduction. 
+The harmonization of the European privacy 
+regime through the introduction of the 
+General Data Protection Regulation (GDPR) 
+was a major focus in 2018 however new laws 
+have also recently been introduced in 
+California, the Cayman Islands, and Brazil; 
+India is currently considering a new draft law. 
+Existing laws in Japan, Guernsey, Jersey and 
+the Isle of Man have also recently been 
+updated.
+As a global business, with transactions and IT 
+infrastructure spanning multiple counties, it 
+may be necessary for personal information to 
+be made available or stored in countries other 
+than where it was originally collected. The 
+proper handling and protection of personal 
+data is very important to our clients, 
+employees and to regulators, and compliance 
+with several different privacy laws can be 
+challenging, with considerable regulatory fines 
+for breaches, for example up to 4% of global 
+turnover under the new European General 
+Data Protection Regulation (GDPR). Barclays 
+ensures adherence to global requirements 
+through our Group-Wide Privacy Policy and 
+Global Privacy Standard, which apply a 
+standard approach across all Barclays’ 
+businesses and functions.
+Policies and controls
+Whether or not Barclays is operating in a 
+jurisdiction with local privacy law all Barclays’ 
+businesses and functions are required to 
+comply with our Group-Wide Privacy Policy 
+and Global Privacy Standard. These reflect the 
+core personal data handling principles found 
+in data protection and privacy laws globally, 
+providing a common baseline standard across 
+the Group. Annual training on Privacy issues is 
+mandatory for all staff, with additional training 
+provided to meet specific needs where 
+necessary. We also have controls in place to 
+ensure employees only have ‘need to know’ 
+access to personal data.
+Privacy is just as important to our 
+relationships with third parties, including 
+suppliers and business partners. We recognise 
+the importance of working with trusted 
+partners and have a series of public external 
+supplier control obligations, which include 
+data privacy and security matters. We have a 
+robust supplier assurance framework, to 
+establish whether suppliers meet these 
+obligations.
+Details on this framework are available at: home.
+barclays/who-we-are/our-suppliers/
+our-requirements-of-external-suppliers/
+As part of our GDPR preparations we updated 
+policies, systems and processes across Europe 
+and established a Group Data Protection 
+Officer, to coordinate and manage our 
+compliance with privacy laws and respect for 
+individuals’ rights.
+Communications and awareness
+We publish details of the mechanisms that 
+customers can use to exercise their rights and 
+also maintain a centralised data protection 
+mailbox where members of the public may 
+raise complaints and concerns with the Group 
+Data Protection Officer. To commemorate 
+World Privacy Day in January 2019 we hosted 
+a series of presentations in the UK by 
+significant external speakers focusing on the 
+implications for privacy from developments in 
+FinTech and Artificial Intelligence, and some 
+of our overseas offices  raised  awareness by 
+staging local talks and privacy roadshows.
+Our Data Privacy Policy can be found at: home.
+barclays/privacy-policy.html
+Our UK online commitment to customers can be 
+found at: barclays.co.uk/important-information/
+control-your-data/
+Data management and information security
+The scale of the threat from cyber-attack to 
+the financial industry remains significant. 
+Banks are an obvious target for criminals, as 
+recent media reporting has highlighted. 
+However, Barclays has taken major strides in 
+the last 12 months to better protect 
+customers’ information and commercial data 
+and ensure that we have the strongest possible 
+security tools and controls to achieve this.
+This year we have introduced new policies and 
+technology to ensure that all data created or 
+managed by Barclays caries a clear security 
+classification and that, through mandatory 
+training, all colleagues understand how they 
+should handle and protect information to keep 
+it safe. This has enabled us to deploy 
+additional controls that respond to these 
+labels and to observe a step change in 
+colleagues’ awareness of their data security 
+responsibilities.
+We have also worked back through our stock 
+of data and applied security labels 
+retrospectively to our most sensitive data and 
+will, by the end of the year, have encrypted 
+this information so that it cannot be exploited 
+even if it falls into the wrong hands.  
+From the end of the year all newly created 
+sensitive data will be encrypted at source and 
+remain so, whether moving between 
+colleagues, technologies or outside of the bank.
+We have further strengthened our controls to 
+ensure that data cannot leave the organisation 
+or be shared inappropriately unless colleagues 
+have dispensations to do so. We have 
+additional technology deployed on our 
+perimeter to provide further safeguard against 
+this risk.  
+Additionally, we have taken steps to work 
+more closely with counter-parties and vendors 
+to ensure that they have in place effective data 
+management so that data which we have 
+chosen to share is afforded the appropriate 
+protections.  
+Next year we will go further and extend the 
+protections we have developed to more of our 
+information and deploy state-of-the-art 
+technology to constantly scan and interrogate 
+our information stores and data flows to 
+identify security risks and trigger additional 
+safeguards.
+Data resilience
+CSO (Chief Security Office) have a set of 
+preventative Key Controls that mitigate 
+cyber-related risks. These focus on 
+understanding internal and external threats and 
+delivering our capability to counteract them.   
+One cyber risk on which the firm is focused is 
+Large Scale Data Corruption.  Major risk 
+events have been experienced in the industry 
+and Barclays has responded to protect against 
+those threats. As threats evolve we adjust our 
+stance.  Our teams use intelligence to create 
+plausible Cyber Security Compromise 
+Scenarios, that they deliver through real-life 
+simulation exercises to help us focus on 
+continuous improvement.  
+We further provide information to the public on 
+how to stay safe online and manage their personal 
+data at: barclays.co.uk/security/
+Managing privacy and increasing digital resilience
+Company

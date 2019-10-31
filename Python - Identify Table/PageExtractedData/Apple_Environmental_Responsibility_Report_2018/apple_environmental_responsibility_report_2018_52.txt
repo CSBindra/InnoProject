@@ -1,0 +1,33 @@
+52Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+Appendix B 
+Data Center Energy 
+Supplement
+ 
+ 
+Apple’s data center presence continues to grow—since April 2017, we 
+announced a new U.S. data center in Iowa, a second data center in 
+Denmark, and two new data centers in China. 
+Each Apple data center has unique design features that reflect the climate 
+and other aspects of its specific site. All of our data centers operate on  
+100 percent renewable energy and power billions of iMessages, answers 
+from Siri, and song downloads from iTunes. This means that no matter how 
+much data the facilities handle, there is a zero greenhouse gas emissions 
+impact from their electricity use. These data centers use renewable energy 
+sources like solar, wind, biogas fuel cells, and low-impact hydro power from 
+onsite and locally obtained resources. 
+Maiden, North Carolina
+Between 2011 and 2015, we installed 68 megawatts of Apple-created 
+projects: two 20-megawatt solar arrays, an 18-megawatt solar array, and 
+10 megawatts of biogas fuel cells. In 2015, we partnered with the local utility, 
+Duke Energy, to help build five solar PV projects through Duke Energy’s 
+Green Source Rider program. These solar PV projects, which started coming 
+online in late 2015, were Duke Energy’s first Green Source Rider projects 
+to become operational. We worked with Duke Energy for several years to 
+develop this green energy tariff option, which allowed Apple and Duke 
+Energy to work together to develop new renewable energy projects. The 
+five projects have a combined peak capacity of 20 megawatts. In 2017, we 
+also made long-term commitments to five more solar PV projects in North 
+Carolina, for an additional 86 megawatts of clean energy. All told, in fiscal 
+year 2017, the Maiden data center was supported by projects that generated 
+273 million kilowatt-hours of renewable energy, which is equivalent to the 
+energy used by 20,663 North Carolina homes.26

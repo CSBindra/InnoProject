@@ -1,0 +1,44 @@
+home.barclays/annualreport Barclays PLC Environmental Social Governance Report 2018 31
+Leadership team
+Context and approach
+A
+dditional inform
+ation
+O
+ur focus areas
+Transition risk
+Scenario
+The 2°C scenario within the REMIND-MAgPIE integrated assessment model (IAM), developed by the Potsdam Institute for Climate Impact 
+Research (PIK) for the European Commission-sponsored CD-Links project was used. 
+IAMs use socio-demographic and economic projections combined with depictions in global land-use and energy systems to present the impacts 
+as related to climate policy and technology transition over the long term (i.e. to 2100). 
+The modelling of the financial risk impacts resulting from this model and a 2°C scenario was conducted by Oliver Wyman in conjunction with the 
+UNEP FI Pilot Banks. 
+Outputs through to the year 2040 were used. 
+Assumptions and Scenario backgrounds 
+This is one of many possible scenarios which comes with its own set of assumptions. Noteworthy assumptions are: 
+?? carbon price increases throughout the 21st century, starting at USD 2/tCO2eq in, and rising to over USD 2/tCO2eq by 2040; 
+?? a ‘middle of the road’ world is assumed, where social, economic, and technological trends do not shift markedly from patterns of the recent 
+past e.g. developing and developed region per capita GDP increases throughout the century; 
+?? Carbon dioxide emissions peak in 2020 and decline rapidly, turning negative as sequestration and reverse emissions technologies take effect by 
+2070; 
+?? Energy mix transitions rapidly, from fossil fuels to renewables, and by 2040 coal is only 2% of the energy mix and renewables over 25%; 
+?? Deforestation reverses after 2020 and carbon sequestration increases, and emissions from both livestock and farming are allocated a carbon 
+price. 
+The full set of assumptions can be found in the UNEP FI Extending our Horizons report. 
+Methodology
+The sector was segmented into four homogenous groups based on exposure to climate risk drivers, regulated and high carbon, regulated and 
+low carbon, unregulated and high carbon, unregulated and low carbon. 
+Probability of Default (PD) calibration was undertaken by Barclays credit risk officers to understand how the transition scenario will impact the 
+credit standing of the entities assessed. 
+Portfolio calibration was achieved by using the Portfolio Assessment Tool designed by Oliver Wyman, which relies on data sourced and 
+scenario conditions defined by the Potsdam Institute for Climate Impact Research and the International Institute for Applied Systems Analysis 
+(IIASA)
+Companies were segmented and grouped together with similar characteristics. The stress test was only applied to an E&P sub-set.
+The REMIND model assumes oil and gas market prices in 2030 and 2040 of $70-90/BBL for oil and c.$7/Mcf for gas. We also ran sensitized cases 
+assuming lower prices given their historically volatile nature and given also that lower prices would place a greater stress on borrowers in this 
+sector. 
+A further hypothetical scenario was considered where governments and international agencies decide to (and are able to) place an additional levy 
+on E&P companies for their role in the carbon-intensive energy value chain, although they don’t directly emit meaningful amounts of greenhouse 
+gases. This resulted in four separate case assumptions, 2°C demand with high prices, 2°C demand with high prices and a carbon levy, 2°C demand 
+with low prices, 2°C demand with low prices and a carbon levy.

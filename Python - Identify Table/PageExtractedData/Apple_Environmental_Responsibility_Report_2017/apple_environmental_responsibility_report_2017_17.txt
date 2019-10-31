@@ -1,0 +1,44 @@
+17Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+To prioritize which materials to tackle first, we created Material Risk 
+Profiles for 44 elements in our products. The profiles identified global 
+environmental, social, and supply risk factors spanning the life of each 
+material. We then combined the risk profiles with data that’s more specific 
+to Apple, like how much of a material we use, how unique our use is, or 
+where we think we can create the most change. The results from our first 
+round of analysis reinforced the need to work on aluminum—which we had 
+already identified as a priority through our carbon footprint work—and on 
+materials like tin and cobalt. 
+As we embrace the circular economy and embark on this journey, we’re 
+tailoring our approach to the specific properties of each material and how 
+we use it. Each project is a bit different.
+For aluminum, we found that one of the best sources of recycled material 
+was our own products and processes. This is because we specify such  
+a high grade of the material—it’s part of what makes our products so 
+strong and durable. Today, the only way to keep aluminum at this level  
+of quality is to keep a clean material stream—not to mix it with existing 
+scrap aluminum, which is what typically happens at recycling facilities.  
+Our challenge is to recover the aluminum from our products without 
+degrading its quality.
+That’s why our investments in new recycling technologies are so 
+important. Existing techniques, such as shredding, only recover a few 
+kinds of materials and often diminish their quality. So we invented Liam, 
+a line of robots that can quickly disassemble iPhone 6, sorting its high-
+quality components with the goal of reducing the need to mine more 
+resources from the earth. With two Liam lines up and running, we can 
+take apart up to 2.4 million phones a year. It’s an experiment in recycling 
+technology that’s teaching us a lot, and we hope this kind of thinking will 
+inspire others in our industry.
+We’ve already begun using the reclaimed aluminum to build new devices. 
+We took aluminum enclosures Liam recovered from iPhone 6, melted 
+them down, and reused the material to create Mac mini computers that 
+we use in our iPhone final assembly facilities. We wanted to show it was 
+possible to use our own scrap to build new products. Now we’re looking 
+for opportunities to expand this pilot.
+For tin, we took a different approach. Unlike aluminum, there is an existing 
+market supply of recycled tin that meets our quality standards. So we 
+are tapping into that supply for iPhone 6s, and now using 100 percent 
+recycled tin for the solder on the main logic board, where the majority of 
+tin in the device is found.7
+Learn more about Liam, Apple’s  
+experiment in disassembly technology.
+Download the white paper  ??

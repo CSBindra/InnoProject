@@ -1,0 +1,50 @@
+Cybersecurity continued
+2017 11.11 Global 
+Shopping Festival, 
+a real testimony to 
+our security capability 
+During the 2017 11.11 Global Shopping 
+Festival, the total amount of paid 
+transactions was RMB168.2 billion 
+(US$25.3 billion)	with	90%	of	the	
+transactions executed via mobile devices. 
+The Shopping Festival marked the biggest 
+online shopping day in the world and was 
+the most important marketing, promotion 
+and sale event of the year for participating 
+merchants – the smooth working of the 
+transaction platform was mission-critical  
+for our customers. 
+In order to protect consumers and 
+merchants from cyber-attacks and 
+fraudulent transactions, our cybersecurity 
+team put in place robust security measures 
+to	filter	out	malicious	activities	and	IP	
+addresses to ensure transaction validity. 
+On that	day,	the	systems	of	Alibaba	and	our	
+affiliate Ant Financial successfully processed 
+peak orders of 325,000 per second, and 
+256,000 peak payment transactions per 
+second, and our logistics subsidiary Cainiao 
+managed 812 million total delivery orders. 
+Case 
+studyOperating such a massive e-commerce platform, 
+how do we guard against risks like malicious 
+attacks, hackers, and fraud? Of course, we 
+cannot take a case-by-case approach. We have 
+to aggregate large numbers of logins or events 
+to monitor security. We are continuously training 
+our systems on the huge volumes of data we 
+handle, and the system is becoming increasingly 
+intelligent. We are the world-leading use case for 
+artificial intelligence – and that is our advantage.
+JESSIE ZHENG 
+Chief Risk Officer, Alibaba Partner 325,000
+Peak	orders	successfully	
+processed per second
+256,000
+Peak	payment	transactions	 
+per second 
+Alibaba Group Holding Limited ESG Report 2018? 28
+OVERVIEW GOVERNANCE TRUST SOCIAL ENVIRONMENT APPENDIX
+|?INTELLECTUAL PROPERTY RIGHTS PROTECTION?|?CYBERSECURITY?|?DATA PROTECTION?|

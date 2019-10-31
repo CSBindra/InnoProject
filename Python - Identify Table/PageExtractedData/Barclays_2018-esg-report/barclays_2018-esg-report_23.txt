@@ -1,0 +1,102 @@
+home.barclays/annualreport Barclays PLC Environmental Social Governance Report 2018 21
+Leadership team
+Context and approach
+A
+dditional inform
+ation
+O
+ur focus areas
+Barclays Joint Operation Centre
+The Barclays Joint Operations Centre (JOC) is 
+an operational hub of security, resilience and 
+defence colleagues from across Barclays 
+with the mission to defend and protect our 
+clients, colleagues, technology, data and 
+assets, ensuring a resilient bank.
+Teams detect, respond and inform on all 
+significant security and non-security incidents. 
+The JOC operations run 24 hours a day, every 
+day of the year from three locations globally 
+and is staffed by incident and crisis 
+managers along with experts from the 
+Security Office, Fraud, Cyber and Financial 
+Crime, Corporate Real Estate, Legal, 
+Compliance, and Communications.
+IT failures and resilience
+Recent years have seen significant advances in 
+technology that have delivered enormous 
+benefits in customer convenience, safety and 
+functionality in banking and financial services. 
+Barclays has embraced these changes to offer 
+unprecedented ease of access and availability, 
+increased security, enhanced economic crime 
+detection and prevention, automation of 
+processes to reduce errors and greatly 
+increased speed of processing requests.
+To meet customer expectations and guard 
+against IT failures that have widespread 
+impact, we have invested heavily in our IT 
+infrastructure. We organise and run our 
+systems to enable our customers to use 
+different channels interchangeably and 
+seamlessly so there are: alternative channels 
+available; systems are duplicated; and there 
+are stand-in processing arrangements in the 
+event of need.
+Barclays’ multi-channel strategy, not only 
+provides customer choice and convenience, 
+but also ensures customers have alternative 
+access to our services, in the event of 
+unavoidable outages that affect their preferred 
+channel. Very specifically, these channels 
+(mobile, online, phone, etc.) are supported on 
+different technology systems to ensure we can 
+continue to service our customers through one 
+channel in the event of difficulty in another.
+On 20 September 2018, when Barclays 
+experienced an operational incident in which 
+some of our systems were subject to 
+substantial disruption, our customers were 
+still able to use core features on Mobile 
+Banking and could use their cards and our 
+ATM network throughout.
+Barclays processes approximately 25,000 
+technology changes every month to ensure our 
+systems stay ahead of a range of threats, 
+trends, and customer demands. Technology 
+has created a new dimension in competition as 
+firms compete to provide the best features and 
+greatest functionality through innovation in 
+digital products and services for customers. 
+This, in turn, requires ongoing changes to our 
+systems. At the same time, we face an ever 
+present and growing threat from cyber 
+criminals trying to disrupt our systems and we 
+must also respond rapidly to regulatory 
+requirements to comply with changes to 
+regulation and the law. Whilst the vast majority 
+of the thousands of technology changes are 
+completed successfully, very occasionally, they 
+can result in unexpected outcomes which may 
+impact our service delivery.
+There is also an increasingly interconnected 
+ecosystem of technology and infrastructure 
+providers on which financial services providers 
+are dependent, including broadband, mobile 
+data networks, and other services.
+We regret any instance of service disruption to 
+customers and remain focused on reducing 
+the volume of operational incidents, through 
+continued investment in our resilience and the 
+strengthening of controls relating to 
+technology. Nearly one quarter of Barclays’ 
+global workforce of 85,000 is dedicated to 
+technology and security. Just as we enable our 
+customers to transact 24/7, we seek to ensure 
+around-the-clock security and resilience.
+We believe our approach is proving successful. 
+Operational incidents caused by technology 
+are becoming less frequent across Barclays 
+year-on-year, with a 13 per cent reduction in 
+the last year, which reflects our continued 
+investment in resilience.

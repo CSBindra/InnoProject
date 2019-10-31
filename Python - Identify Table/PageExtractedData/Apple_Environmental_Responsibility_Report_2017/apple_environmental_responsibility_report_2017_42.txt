@@ -1,0 +1,54 @@
+42Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+Maiden, North Carolina—100% renewable since opening June 2010
+Duke Energy Default Grid Mix Apple Actual Renewable Energy Use
+Nuclear 51% Apple’s Solar PV Projects 36%
+Coal 33% Biogas Fuel Cells 28%
+Other 16% Duke Green Source Rider  
+(100% Solar PV)
+8%
+Renewable <1% NC GreenPower (80% solar) 36%
+2016 Default Emissions 
+(mtons CO?e/year)
+103,296 2016 Effective Emissions 
+(mtons CO?e/year)
+0
+From Duke Energy Carolinas 2015 Statistical  Supplement 
+generation data
+Actual fiscal year 2016 energy data
+Newark, California
+Our data center in Newark, California, is powered by 100 percent  
+renewable energy. We hit this milestone in January 2013, when we began 
+serving the data center with energy sourced primarily from California wind 
+power. We’re acquiring this energy directly from the wholesale market 
+through California’s Direct Access program. Late in 2017, when we antici-
+pate the 130-megawatt California Flats solar project in Monterey County, 
+California, to come online, we’ll use Direct Access to supply power from 
+that project directly to our data center as well as other Apple facilities in 
+California.
+Newark, California—100% renewable since opening January 2013
+Pacific Gas & Electric Default Grid Mix Apple Actual Renewable Energy Use
+Natural Gas 25% Bundled Grid (mostly wind) 84%
+Nuclear 23% Grid (mostly wind) 16%
+Other/Unspecified 22%
+Renewable 30%
+2016 Default Emissions 
+(mtons CO?e/year)
+24,993 2016 Effective Emissions 
+(mtons CO?e/year)
+0
+https://www.pge.com/pge_global/common/pdfs/your- 
+account/your-bill/understand-your-bill/bill-inserts/ 
+2016/11.16_PowerContent.pdf
+Actual fiscal year 2016 energy data
+Prineville, Oregon
+To support our Prineville data center, we recently signed a 200-megawatt 
+power purchase agreement for a new Oregon wind farm, the Montague 
+Wind Power Project, set to come online by the end of 2018. This is our 
+first Apple-created wind project. And it’s our largest project to date,  
+producing over 560 million kilowatt-hours of clean, renewable energy 
+a year. Additionally, we executed a power purchase agreement for the 
+56-megawatt Solar Star Oregon II PV array located just a few miles from 
+our data center. The project comes online at the end of this year and 
+will produce 140 million kilowatt-hours of renewable energy a year. To 
+Wind
+Solar arrays + Fuel Cell Family

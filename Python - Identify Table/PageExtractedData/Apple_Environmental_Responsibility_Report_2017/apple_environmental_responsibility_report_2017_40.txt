@@ -1,0 +1,116 @@
+40Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+Fiscal Year 2016 Natural Gas and  
+Electricity Use
+The chart below provides a detailed breakdown of fiscal year 2016 energy 
+use, which is used to calculate our carbon emissions.
+Fiscal Year 2016
+Natural Gas Electricity
+Location Total Gas(mmBTU)
+Renewable Biogas
+(mmBTU)
+Total Electricity
+(million kWh)
+Renewable Electricity
+(million kWh)
+Corporate
+Cupertino, CA
+Elk Grove, CA
+Austin, TX
+Other U.S.¹
+Cork, Ireland
+Singapore
+China
+Other International¹
+414,003
+351,905
+7456
+4668
+16,552 
+13,767
+0
+1874
+17,779
+29,712
+29,712
+0
+0
+0
+0
+0
+0
+0
+473
+260
+13
+54
+20
+14
+18
+12
+82
+419
+260
+13
+54
+20
+14
+18
+12
+28
+Data centers
+Maiden, NC
+Newark, CA
+Prineville, OR
+Reno, NV 
+Mesa, AZ 
+Colocation Facilities²
+491,378
+491,159
+0
+185
+0
+33 
+—
+491,159
+491,159
+0
+0
+0
+0 
+—
+778
+244
+130
+115
+90
+19
+180
+775
+244
+130
+115
+90
+19
+177
+Retail stores
+Domestic (U.S.)
+International
+69,197
+29,994
+39,203
+0
+0
+0
+203
+99
+104
+191
+99
+92
+Totals 974,577 520,871 1454 1385
+Percent Renewable³ 53% 95%
+— Data not tracked
+¹Includes energy used at distribution centers, beginning in FY2016.
+²In FY2016, we began tracking electricity used at colocation facilities as part of Apple’s footprint.
+³For ease of accounting, we calculate our progress toward 100 percent renewable energy on a calendar year basis, while we track and report all other environmental impacts on a fiscal year basis. In calendar year 
+2016, 96 percent of the 1,572 million kWh electricity we used came from renewable sources.

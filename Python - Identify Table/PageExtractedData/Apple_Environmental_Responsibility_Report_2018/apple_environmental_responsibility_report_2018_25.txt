@@ -1,0 +1,47 @@
+25Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+Plastics. Wherever possible, we’re moving to recycled or bio-based 
+plastics, and in some cases, like for our packaging, we’re working to 
+eliminate the need for plastics altogether. We’ve reduced the amount of 
+plastics in our product packaging by 29 percent compared to 2016. For 
+the remaining plastics, we’re looking for bio-based or recycled alternatives 
+to petroleum-based plastics. We’re using these alternatives in a number of 
+components—for example, the speaker, keyboard, and trackpad enclosures 
+of iMac Pro are made with 60 percent recycled plastic. And the fan 
+assembly is made with 26 percent bio-based plastic.
+Rare earth elements. These elements include neodymium, praseodymium, 
+and dysprosium, which are used in magnets for audio applications, in 
+cameras, and in haptics technology. Traditional recyclers don’t typically 
+recover rare earth elements, because they are often in small magnets that 
+are embedded in a number of different components within iPhone. Daisy 
+retrieves those components. So we’re now investing in new technologies to 
+recover the material from those components so they can be used again. 
+Steel. We use stainless steel in the enclosure construction of iPhone X and 
+some Apple Watch models. Stainless steel is a highly recyclable material, 
+and we’re working with our suppliers to increase the recycled content in the 
+stainless steel that we source. 
+Tin.* There is an existing market supply of recycled tin, but we wanted 
+to make sure it meets our quality standards. So in 2017 we proved that 
+we could use 100 percent recycled tin for the solder on the main logic 
+board (where the majority of tin is found) of iPhone 6s. Since then, we’ve 
+expanded to other products: We’re now specifying 100 percent recycled tin 
+for the solder on the main logic board of iPhone 7, iPhone 7 Plus, iPhone 8, 
+and iPhone 8 Plus.** But to truly close the loop, we want to recover as 
+much tin as we’re using—and make sure the tin is recycled responsibly and 
+put back into the world’s supply. Unfortunately, tin is not recovered by all 
+electronics recyclers. So we‘re prioritizing responsibly operated recyclers 
+that recover tin, in addition to the copper and precious metals, from the 
+main logic boards retrieved by Daisy. 
+Tungsten.* Tungsten is a key material used in our Taptic Engine and other 
+consumer electronics that enable devices to vibrate. The availability of 
+recycled tungsten varies by geography and by supplier, and the tungsten in 
+our products is currently lost to shredding in traditional recycling processes. 
+So Daisy retrieves the alert module and allows us to send it to speciality 
+recyclers who recover tungsten. 
+ *  Apple is committed to the responsible sourcing of materials for our products. We identify and map both 
+regulated and unregulated materials in our products deep in the supply chain. For the second year in a row, 
+100 percent of our identified tin, tantalum, tungsten, gold, and cobalt smelters and refiners participated in 
+independent third-party audits. We go beyond what is required by law, including by publishing smelter lists,  
+to meet and exceed internationally accepted due diligence standards and help protect the people in our  
+supply chain. Download Apple’s Conflict Minerals Report. 
+** The recycled tin we?re transitioning to has been verified by a third party to be 100  
+percent recycled.

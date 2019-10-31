@@ -1,0 +1,87 @@
+Case 
+study
+Environment continued
+We run an e-commerce business  
+where	tens of	millions	of	packages	are	
+generated	for delivery	on	our	shopping	
+platforms. Therefore, we are mindful of  
+the	environmental	effect	of paper	and	 
+plastic	packaging	as	well	as	the carbon	
+footprint	of	transport	systems	in logistics.	
+We provide daily services to hundreds 
+of millions	of	consumers,	mostly	through	
+our mobile	app	platforms.	Thus,	we	 
+believe that we have a responsibility to  
+bring environmental awareness to our 
+customers through our vast reach.
+INVESTING IN ENERGY-EFFICIENT 
+DATA CENTERS AND SERVERS 
+To reduce our carbon footprint and  
+conserve energy, we focus on making 
+pioneering changes to our infrastructure and 
+buildings. We have been focusing on making 
+our data centers more environmentally-
+friendly by switching to cooling and water-
+efficient systems supported by intelligent 
+management technology and the use of 
+renewable energy. 
+Qiandao Lake  
+Data Center
+The Qiandao Lake Data Center adopts  
+a state-of-the-art deep lake water cooling 
+system which saves 300 million kWh of 
+electricity and reduces CO2 emissions  
+by 300,000 tons per year compared to 
+other conventional data centers. The 
+technology lowers its annual average 
+Power	Usage	Effectiveness	(PUE)	to	as	 
+low as 1.17, considerably lower than many 
+leading Chinese data center companies. 
+The system also reduces the annual 
+average Water Usage Efficiency (WUE) to 
+reach 0.197, which is also below China’s  
+industry average.
+Zhangbei  
+Data Center
+Located in Hebei province, in a naturally 
+cool region with great access to wind 
+power, the Zhangbei Data Center is 
+powered 100% by renewable energy 
+including solar and wind. This increases 
+the data center’s energy efficiency by 
+more than 4% while reducing construction 
+and maintenance costs. The technology 
+reduces the temperature of its servers, 
+which	keeps	its	average	PUE	at	only	1.25	
+and reduces the energy consumption 
+typically used for cooling by 59%. 
+Cooling system
+300M
+kWh of electricity saved by lake 
+water cooling system per year
+300KTONS
+reduced CO2 emissions  
+per year
+Renewable energy
+100%
+powered by renewable energy
+4%
+increase in the data center’s 
+energy efficiency per year
+One of the most visible 
+environmental effects of 
+technology companies is the 
+power consumption of their 
+hardware infrastructure. 
+Because we have a substantial 
+cloud computing service 
+business, we are taking on  
+the power consumption of 
+other enterprises as well as 
+our own. We employ energy-
+efficient technology and 
+methods in our data centers, 
+with a focus on minimizing 
+our energy consumption. 
+Alibaba Group Holding Limited ESG Report 2018? 45
+OVERVIEW GOVERNANCE TRUST SOCIAL ENVIRONMENT APPENDIX

@@ -1,0 +1,84 @@
+49Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+ 
+ 
+ 
+ 
+ 
+Apple, Inc. Page 2 
+Our work was conducted against Bureau Veritas’ standard procedures and guidelines for external 
+Verification of Sustainability Reports, based on current best practice in independent assurance.  
+Bureau Veritas procedures are based on principles and methods described in the International 
+Standard on Assurance Engagements (ISAE) 3000. 
+ 
+The work was planned and carried out to provide reasonable assurance for all indicators and we 
+believe it provides an appropriate basis for our conclusions.  
+ 
+Our Findings   
+BVNA verified the following indicators for Apple’s Fiscal Year 2016 reporting period (September 27, 
+2015 through September 24, 2016):  
+ 
+Parameter Quantity Units Boundary/ Protocol 
+Natural Gas Consumption:   9.7  Million Therms Worldwide occupied 
+properties / Apple Internal 
+Protocol 
+Electricity Consumption: 1,454 Million kilowatt 
+hours (mkWh) 
+Worldwide occupied 
+properties / Apple Internal 
+Protocol 
+Renewable Energy 1,385 Million kilowatt 
+hours (mkWh) 
+Worldwide / Invoiced 
+quantities & self-generated 
+Scope 1 GHG Emissions 34,000 metric tons of 
+carbon dioxide 
+equivalent (tCO2e) 
+Worldwide occupied 
+properties / WRI/WBCSD 
+GHG Protocol 
+Scope 2 GHG Emissions 
+(Location-Based) 
+542,000 tCO2e Worldwide occupied 
+properties / WRI/WBCSD 
+GHG Protocol 
+Scope 2 GHG Emissions 
+(Market-Based) 
+41,600 tCO2e Worldwide occupied 
+properties / WRI/WBCSD 
+GHG Protocol 
+Scope 3 GHG Emissions – 
+Business Travel  
+118,000 tCO2e Worldwide occupied 
+properties / WRI/WBCSD 
+GHG Protocol Value Chain 
+(Scope 3) 
+Scope 3 GHG Emissions – 
+Employee Commute 
+186,000 tCO2e Worldwide occupied 
+properties / WRI/WBCSD 
+GHG Protocol Value Chain 
+(Scope 3) 
+Water Withdrawal 630 Million gallons Worldwide occupied 
+properties / Apple Internal 
+Protocol 
+Trash  disposed in Landfill 9,800 Metric tonnes Worldwide occupied 
+properties / Apple Internal 
+Protocol 
+Hazardous Waste 
+(Regulated waste) 
+1,000 Metric tonnes Worldwide occupied 
+properties / Apple Internal 
+Protocol 
+Recycled Material 
+(Removal by recycling 
+contractor) 
+12,800 Metric tonnes Worldwide occupied 
+properties / Apple Internal 
+Protocol 
+Composted Material 6,200 Metric tonnes Worldwide occupied 
+properties / Apple Internal 
+Protocol 
+Paper 1,100 Metric tonnes Worldwide occupied 
+properties / Apple Internal 
+Protocol 
+  

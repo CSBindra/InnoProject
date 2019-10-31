@@ -1,0 +1,40 @@
+63Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+ 
+ 
+ 
+  
+ 
+ 
+  
+Comprehensive Carbon Footprint Letter of Assurance
+Client: Apple Inc. 1
+Letter of Assurance 
+Comprehensive Carbon Footprint – Scope 3: Product related Carbon 
+Footprint for Fiscal Year 2017 
+Fraunhofer IZM reviewed Apple’s scope 3 carbon footprint data related to the products 
+manufactured and sold by Apple Inc. in fiscal year 2017.  
+1 Summary 
+This review checks transparency of data and calculations, appropriateness of supporting 
+product related data and assumptions, and overall plausibility of the calculated 
+comprehensive annual carbon footprint comprised of emissions derived from the life cycle 
+assessment (LCA) of Apple products shipped in fiscal year 2017. This review and verification 
+focuses on Scope 3 emissions for products sold by Apple Inc. (as defined by 
+WRI/WBCSD/Greenhouse Gas Protocol – Scope 3 Accounting and Reporting Standard). It is 
+noted that emissions relating to the facilities that are owned or leased by Apple (scope 1 
+and 2 emissions) as well as business travel and employee commute were subject to a 
+separate third party verification and are therefore excluded from the scope of this 
+statement. Confidential data relating to product sales and shipments were also excluded 
+from the scope of this verification.  
+This review and verification covers Apple’s annual greenhouse gas emissions and does not 
+replace reviews conducted for individual product LCAs for greenhouse gas emissions 
+(GHGs). The life cycle emissions data produced by Apple for individual products has been 
+calculated in accordance to the standard ISO 14040/14044: Environmental management – 
+Life cycle assessment – Principles and framework / Requirements and guidelines. This 
+review and verification furthermore complies with ISO 14064-3: Greenhouse gases -- Part 
+3: Specification with guidance for the validation and verification of greenhouse gas 
+assertions.  
+The review of the annual carbon footprint has considered the following criteria: 
+? The system, boundaries and functional unit are clearly defined 
+? Assumptions and estimations made are appropriate 
+? Selection of primary and secondary data is appropriate and methodologies used 
+are adequately disclosed 

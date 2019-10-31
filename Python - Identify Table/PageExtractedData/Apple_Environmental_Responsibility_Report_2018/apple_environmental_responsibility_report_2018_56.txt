@@ -1,0 +1,35 @@
+56Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+Mesa, Arizona 
+Our newest data center, our global command center in Mesa, Arizona, came 
+online in 2016. To support this facility, we partnered with the local utility, the 
+Salt River Project, to build the 50-megawatt Bonnybrooke solar array, which 
+became operational in December 2016. This project produces over 147 million 
+kilowatt-hours of clean, renewable energy a year, which more than fully 
+matches the energy used by the data center. 
+In fiscal year 2017, the Mesa data center was supported by 45 million 
+kilowatt-hours of renewable energy, which is equivalent to the energy used 
+by 3,640 Arizona homes.26
+Mesa Arizona—100% renewable since opening March 2017*
+45 million kWh energy use in fiscal year 2017
+Salt River Project (SRP)  
+Default Grid Mix
+Apple Actual Renewable Energy Use
+Coal 53% Apple‘s Solar PV Project 93%
+Nuclear 18% SRP Solar PV Purchase 7%
+Natural Gas / Other 17%
+Renewable 12%
+2017 Default Emissions 
+(mtons CO?e/year)
+21,630 2017 Effective Emissions 
+(mtons CO?e/year)
+0
+www.srpnet.com/about/stations/pdfx/2014irp.pdf Actual fiscal year 2017 energy data
+*Apple took operational control of the building in October 2015 and converted it to a data center that began servicing customers in 
+March 2017
+Viborg, Denmark 
+We’re currently constructing a new data center running on 100 percent 
+renewable energy in Denmark’s central Jutland region. Due to its proximity to 
+one of Denmark’s largest electrical substations, the data center won’t require 
+backup generators, which typically run on diesel and require periodic testing 
+and burning of fuel. 
+Solar

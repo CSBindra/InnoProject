@@ -1,0 +1,258 @@
+39Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+Fiscal Year 2013
+Scope 1¹ Scope 2²
+Location Default Utility Emissions³ Apple Emissions (incl. Renewable Energy) Default Utility Emissions³
+Apple Emissions 
+(incl. Renewable Energy)
+Corporate
+Cupertino, CA
+Elk Grove, CA
+Austin, TX
+Other U.S.
+Cork, Ireland
+Singapore
+China
+Other International
+15,211
+12,231
+509
+83
+337
+743
+50
+390
+868
+13,727
+10,747
+509
+83
+337
+743
+50
+390
+868
+85,354
+43,116
+4400
+12,162
+2463
+5320
+5826
+7490
+4578
+17,503
+0
+0
+0
+0
+0
+5826
+7490
+4187
+Data centers
+Maiden, NC
+Newark, CA
+Prineville, OR
+Reno, NV
+19,360
+19,360 
+0
+0
+0
+2201
+2201
+0
+0
+0
+123,855
+75,836
+36,959
+9965
+1095
+0
+0
+0
+0
+0
+Retail stores
+Domestic (U.S.)
+International
+6158
+3548
+2610
+6158
+3548
+2610
+77,425
+44,606
+32,819
+74,002
+44,606
+29,397
+Totals 40,729 22,086 286,634 91,505
+Fiscal Year 2012
+Corporate
+Cupertino, CA
+Elk Grove, CA
+Austin, TX
+Other U.S.
+Cork, Ireland
+Singapore
+China
+Other International
+13,160
+10,949
+560
+59
+237
+715
+32
+—
+609
+15,423
+13,256
+369
+233
+121
+892
+0
+117
+435
+84,611
+39,457
+6952
+10,635
+4265
+4801
+4946
+1049
+12,505
+48,215
+25,450
+0
+0
+4265
+0
+4946
+1049
+12,505
+Data centers
+Maiden, NC
+Newark, CA
+Prineville, OR
+146
+146
+0
+0
+46
+146
+0
+0
+87,732
+52,977
+33,492
+1263
+7664
+0
+7664
+0
+Retail stores
+Domestic (U.S.)
+International
+2812
+787
+2025
+2812
+787
+2025
+83,285
+—
+—
+83,285
+—
+—
+Totals 16,118 14,301 255,628 139,164
+Fiscal Year 2011
+Corporate
+Cupertino, CA
+Elk Grove, CA
+Austin, TX
+Other U.S.
+Cork, Ireland
+Singapore
+China
+Other International
+14,425
+11,007
+556
+45
+564
+804
+—
+—
+1449
+12,656
+9238
+556
+45
+564
+804
+—
+—
+1449
+82,183
+39,428
+7930
+10,139
+2141
+4598
+3243
+280
+14,424
+59,516
+39,428
+0
+0
+2141
+0
+3243
+280
+14,424
+Data centers
+Maiden, NC
+Newark, CA
+0
+0
+0
+0
+0
+0
+51,651
+22,663
+28,988
+28,988
+0
+28,988
+Retail stores
+Domestic (U.S.)
+International
+2600
+746
+1854
+2600
+746
+1854
+65,769
+—
+—
+65,769
+—
+—
+Totals 17,025 15,256 199,603 154,273
+Notes:  
+— Energy source not yet online.
+¹Scope 1 emissions result from natural gas use for facilities, and gasoline use for fleet vehicles. As is typical, these emissions are tracked separately from our 100 percent renewable energy claim.
+²Scope 2 emissions result from electricity use for facilities. In addition, in fiscal year 2014, Apple owned a facility in Mesa, Arizona, that was operated by a supplier, which had default grid emissions of 151,279 tons  
+CO2e and effective emissions of 0 tons CO2e in fiscal year 2014. It was removed from operation in fiscal year 2015.
+³Default Utility Emissions are based on utility-scale and regional default grid emission factors (using the most granular data set available).
+?In FY2016, we began tracking electricity used at colocation facilities as part of Apple’s footprint. 

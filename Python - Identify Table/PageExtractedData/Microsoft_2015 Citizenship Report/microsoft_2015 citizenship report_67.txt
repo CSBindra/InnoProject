@@ -1,0 +1,102 @@
+Municipal Supply
+(2,373,012)
+Groundwater
+(222,947)
+Recycled Water Supplies
+(402,282)
+Rainwater
+(4,932)
+Total 3,003,173 (cubic meters)
+Landfill Recycle Compost
+FY14
+2,252
+17,231
+4,692
+FY12 FY13
+3,270
+2,491
+9,960
+12,105
+4,112
+4,995
+67Microsoft 2015 Citizenship Report
+7.4 Water and Waste
+Water 
+Microsoft’s operations are generally not water 
+intensive, with the exception of some of our data-
+centers that rely on water for cooling. We’ve worked 
+to mitigate the impacts of datacenter water use 
+by using recycled municipal waste water in some 
+water-scarce locations such as San Antonio, Texas.
+Beyond datacenters, Microsoft continues to 
+invest in water-saving fixtures in our office  
+buildings and smart landscape irrigation  
+practices to conserve water. 
+Waste
+Microsoft’s Real Estate and Facilities teams around 
+the world implement waste minimization programs, 
+including office supply reuse, recycling, and in many 
+cases, composting programs. Among our accom-
+plishments, we reduced, reused, or recycled 99 
+percent of the waste from our Redmond, Washing-
+ton dining facilities by switching to compostable 
+tableware, administering aggressive recycling 
+programs, and adapting our menu to get the  
+most from each item of food served.
+ 
+We’ve also set a long-term goal of 90 percent 
+waste diversion from landfills across our global 
+headquarters facilities in the Puget Sound region 
+of Washington, which represent approximately 
+36 percent of our total real estate portfolio. We’re 
+rapidly approaching that goal and are working 
+to extend that goal to additional campuses in the 
+United States and around the globe.
+Our increased use of recycling and composting 
+and lower waste to landfill is evident in the fol-
+lowing chart, covering data from our facilities 
+across the Puget Sound region. We are working 
+to increase the amount of waste data we collect 
+across other Microsoft locations to improve our 
+waste reporting in the future.
+As we expand our on-campus hardware device 
+labs, we have begun to generate hazardous waste 
+and e-waste from developing and testing proto-
+type devices. We have implemented a chemical 
+management program that helps employees 
+prevent waste generation by using less-polluting 
+products and reducing or eliminating unused 
+materials. When we do generate waste, we recycle 
+whenever possible and dispose of any remainder 
+as required by local regulations. We have also 
+developed an auditing program to verify that any 
+facility that handles our waste for recycling or 
+disposal can do so responsibly and while comply-
+ing with environmental regulations. In FY14 we 
+generated 1.68 metric tons of hazardous waste 
+across our Puget Sound facilities, which was 
+disposed of at properly permitted US hazardous 
+waste facilities. 
+Waste Disposal Trends (metric tons) 21FY14 Water Use by Source 20
+20 This data covers 65 percent of Microsoft facilities by square foot-
+age, including key water using data center operations. Additional 
+details of our water use and previous years’ reports are publicly 
+available in our CDP Water Project filing. As with emissions and 
+energy data, we will disclose updated FY15 water data before the 
+end of the calendar year at www.microsoft.com/transparencyhub.
+21 Data covers 74 percent of Microsoft’s global facilities by square 
+footage. As with emissions and energy data, we will disclose 
+updated FY15 water data before the end of the calendar year at 
+www.microsoft.com/transparencyhub.
+Our Company Our People Human Rights Responsible  
+Sourcing and 
+Manufacturing
+Ethical Business 
+Conduct and 
+Governance
+Environmental 
+Sustainability
+Empowering 
+Communities
+Performance 
+Highlights

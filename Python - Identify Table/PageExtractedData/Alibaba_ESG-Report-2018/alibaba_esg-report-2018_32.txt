@@ -1,0 +1,77 @@
+ORGANIZATIONAL 
+ACCOUNTABILITY
+We have established three levels of 
+organizational accountability for data 
+collection and classification – at the group 
+management level, business group level,  
+and business unit level. 
+• At group management level, we have 
+a Data Security Committee that is 
+responsible for our official Data Security 
+Guidelines around production, processing, 
+transmission, storage, use, dissemination, 
+and destruction of data, during all stages  
+of the data life cycle. 
+• At	the	business	group	level,	the	President	 
+of each group is held accountable for data 
+security, and each business unit has a 
+dedicated expert who oversees data 
+security issues. 
+• Each business unit formulates corresponding 
+implementation rules, based on the 
+Guidelines, which must be pre-approved 
+and filed with the Data Security Committee.
+• We also conduct training to improve  
+the data security awareness of Alibaba 
+employees and enforce compliance with 
+our guidelines. Employees who are handling 
+sensitive data are closely monitored to help 
+avoid possible risks or losses resulting from 
+improper data handling. 
+Employees	are	required	to	go	through	
+an annual	data	handling	and	protocol	
+certification to ensure knowledge and 
+sensitivity to our data policies. Any 
+employees who violate the Data Security 
+Guidelines are subject to penalty including 
+dismissal, and we may also pursue civil and 
+criminal charges against them.
+Data Protection continued
+Alibaba Cloud, our cloud 
+computing arm, is a founding 
+member of the EU Cloud  
+Code of Conduct and the 
+General Assembly, which 
+helped to develop a code  
+of conduct for EU cloud 
+services in accordance 
+with the requirements 
+of the EU’s General Data 
+Protection Regulation.
+COMPLIANCE WITH 
+EVOLVING REGULATIONS
+Alibaba is committed to compliance with 
+government regulations in every jurisdiction 
+in which we operate, and especially when  
+the government orders enforcements  
+or investigations. Separately, we have 
+established procedures to support litigation, 
+court orders, discovery and other legal 
+matters	that	may	require	data	disclosure	 
+but at the same time strictly minimize 
+unnecessary disclosure of personal data.
+In recent years, the European Union (EU), 
+China, and other countries have 
+strengthened the protection of private 
+information of individuals and businesses, 
+which we view as positive developments. 
+We follow	new	PRC	cyber	security	laws	
+governing the collection of personally 
+identifiable	information	(PII)	and	we	are	
+ISO27018 certified for measures that protect 
+PII	in accordance	with	the	privacy	principles	
+in	ISO/IEC	29100	for	the public	cloud	
+computing environment. 
+Alibaba Group Holding Limited ESG Report 2018? 31
+OVERVIEW GOVERNANCE TRUST SOCIAL ENVIRONMENT APPENDIX
+|?INTELLECTUAL PROPERTY RIGHTS PROTECTION?|?CYBERSECURITY?|?DATA PROTECTION?|

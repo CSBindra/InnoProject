@@ -1,0 +1,75 @@
+VOLKSWAGEN GROUP SUSTAINABILITY REPORT 2017
+109
+Appendix  |  GRi COnTenT index Appendix  |  GRi COnTenT index
+GRI CONTENT INDEX
+GRI  
+Standard
+Disclosure References Comments UNGC SDG GSC
+GRi 206: Anti-Competitive Behavior 2017
+206-1 Legal actions for anti-competitive 
+behavior, anti-trust, and monopoly 
+practices 
+Annual Report 2017: Litigation 10 16 20
+GRi STAndARdS: enViROnMenTAL TOpiCS
+MATERIALS
+GRi 103: Management Approach 2017
+103-1 explanation of the material topic and 
+its Boundary 
+50, 64 7, 8, 9 2, 4
+103-2 The management approach and its 
+components 
+50–54 7, 8, 9 3, 6, 11, 12
+103-3 evaluation of the management 
+approach 
+50–51 7, 8, 9 3, 7
+GRi 301: Materials 2017
+301-1 Materials used by weight or volume  64–65 8, 9 8, 12 11, 12
+301-2 Recycled input materials used  64–65 8, 9 8, 12 11, 12
+301-3 Reclaimed products and their packaging 
+materials 
+64 8, 9 8, 12 11, 12
+ENERGY
+GRi 103: Management Approach 2017
+103-1 explanation of the material topic and 
+its Boundary 
+50, 55, 59 7, 8, 9 2, 4
+103-2 The management approach and its 
+components 
+50–62 7, 8, 9 3, 6, 10, 
+11, 12
+103-3 evaluation of the management 
+approach 
+50–51 7, 8, 9 3, 7
+GRi 302: energy 2017
+302-1 energy consumption within the 
+ organization 
+60 8 7, 12, 13 11, 12
+302-2 energy consumption outside of the 
+organization 
+— energy consumption not indicated; we report  
+Scope 3 emissions instead (see GRi 305-3).
+8, 9 7, 8, 12, 13 11
+302-3 energy intensity  60 8 7, 8, 12, 13 11
+302-4 Reduction of energy consumption  59–62 8, 9 7, 8, 12, 13 10, 12
+302-5 Reduction in energy requirements of 
+products and services 
+58–59 8, 9 7, 8, 12, 13 10, 12
+WATER
+GRi 103: Management Approach 2017
+103-1 explanation of the material topic and 
+its Boundary 
+50, 65 7, 8 2, 4
+103-2 The management approach and its 
+components 
+50–54, 65–66 7, 8 3, 6, 11, 12
+103-3 evaluation of the management 
+approach 
+50–51 7, 8 3, 7
+GRi 303: Water 2017
+303-1 Water withdrawal by source  65–66 8 6 11, 12
+303-2 Water sources significantly affected by 
+withdrawal of water 
+65 8 6 11, 12
+303-3 Water recycled and reused  — Total volume of recycled water not indicated; data 
+ uncollectable due to the complexity of the company.
+8 6, 8, 12 11, 12

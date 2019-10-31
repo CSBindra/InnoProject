@@ -1,0 +1,33 @@
+29Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+We start this process early in the design and manufacturing phases so we 
+can take appropriate actions to remove or replace hazardous chemicals. 
+In some cases, few replacements are readily available, so we work with 
+our suppliers to find substitutions, switch to another supplier that uses 
+safer materials, or explore how to eliminate the need for that substance. 
+It took us four years to remove polyvinyl chloride, or PVC, from our power 
+cords and headphone cables. We tested dozens of formulations until 
+we finally found the right blend of durability, safety, and environmental 
+performance in the nonchlorinated and nonbrominated thermoplastic 
+elastomers that we used as replacements. 
+Biocompatibility
+To ensure the safety of Apple Watch, 
+we make our own sweat.
+We carefully test all product materials that come in contact with skin. For 
+example, many people are allergic to nickel, which is common in many 
+alloys like stainless steel. So we do nickel leach testing on Apple Watch 
+and other wearable devices to measure how quickly nickel can transfer 
+from metal parts into sweat. We even create artificial sweat to conduct 
+such tests. By placing different components in jars of the artificial sweat, 
+we can closely monitor samples to ensure that nickel and other allergens 
+and irritants stay where they belong. 
+And we go far beyond sweat in our testing. We analyze materials that 
+someone might put in their mouth—like an Apple Pencil you might chew 
+on while considering the next line in your drawing—to make sure they’re 
+safe. We also evaluate products after they’ve undergone extensive 
+reliability testing to ensure that they remain safe for our customers, even 
+after years of use and exposure to different environmental conditions.
+In an incubator that simulates the  
+temperature of the human body,  
+Apple Watch bands are placed in  
+jars of artificial sweat to undergo  
+analytical testing.

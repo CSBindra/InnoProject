@@ -1,0 +1,281 @@
+50Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+Scopes 1 and 2 Carbon Emissions 
+Breakdown (metric tons CO?e)
+Fiscal Year 2017¹ 2016 2015
+Location Scope 1 Scope 2 Scope 1 Scope 2 Scope 1 Scope 2
+Corporate
+Cupertino, CA
+Elk Grove, CA
+Austin, TX
+Other U.S.
+Cork, Ireland
+Singapore
+China
+Other International
+25,430
+20,580
+530
+330
+1160
+710
+90
+220
+1810
+33,290
+0
+0
+0
+0
+0
+0
+0
+33,290
+20,537
+17,121
+397
+248
+883
+780
+65
+38
+1005
+30,408
+0
+0
+0
+0
+0
+0
+0
+30,408
+15,415
+13,248
+369
+233
+121
+892
+0
+117
+435
+19,564
+0
+0
+0
+0
+0
+3767
+2201
+13,596
+Data centers
+Maiden, NC
+Newark, CA 
+Prineville, OR
+Reno, NV
+Mesa, AZ
+Viborg, Denmark
+Colocation facilities (U.S.)²
+Colocation facilities (International)²
+4210
+150
+70
+950
+1530
+1510
+1520
+0
+0
+0
+0
+0
+0
+0
+1520
+2738
+126
+139
+1077
+713
+683
+— 
+1621
+0
+0
+0
+0
+0
+—
+0
+1621
+13
+0
+0
+13
+0
+—
+0
+0
+0
+0
+0
+—
+—
+Retail stores
+Domestic (U.S.)
+International
+4920
+2490
+2430
+1440
+0
+1440
+3679
+1597
+2082
+8924
+0
+8924
+3800
+2269
+1531
+22,893
+0
+22,893
+Business fleet 8299 — 7370 — 8744 —
+Process emissions³ 2538 — — — — —
+Totals 45,397 36,250 34,324 40,953 27,972 42,457
+Fiscal Year 2014 2013 2012
+Location Scope 1 Scope 2 Scope 1 Scope 2 Scope 1 Scope 2
+Corporate
+Cupertino, CA
+Elk Grove, CA
+Austin, TX
+Other U.S.
+Cork, Ireland
+Singapore
+China
+Other International
+15,335
+12,929
+411
+148
+115
+1000
+51
+385
+296
+21,555
+0
+0
+0
+0
+0
+6852
+8577
+6126
+13,727
+10,747
+509
+83
+337
+743
+50
+390
+868
+17,503
+0
+0
+0
+0
+0
+5826
+7490
+4187
+11,343
+9,132
+560
+59
+237
+715
+32
+—
+609
+48,215
+25,450
+0
+0
+4265
+0
+4946
+1049
+12,505
+Data centers
+Maiden, NC
+Newark, CA
+Prineville, OR
+Reno, NV
+18
+0
+0
+18
+0
+0
+0
+0
+0
+0
+2201
+2201
+0
+0
+0
+0
+0
+0
+0
+0
+146
+146
+0
+0
+0
+7664
+0
+7664
+0
+0
+Retail stores
+Domestic (U.S.)
+International
+5355
+2812
+2543
+41,658
+11,036
+30,662
+6158
+3548
+2610
+74,002
+44,606
+29,397
+2812
+787
+2025
+83,285
+—
+—
+Business fleet 7778 — 7214 — 6923 —
+Totals 28,486 63,213 29,300 91,505 21,224 139,164
+—  = Energy source not yet online.
+Scope 1 emissions result from natural gas use in buildings, and gasoline use for fleet vehicles. As is typical, these emissions are tracked separately from our 100% renewable energy claim. Starting in FY2016,  
+Scope 1 emissions capture diesel use in emergency backup generators and propane gas use in corporate offices. Scope 1 emissions are calculated using emissions factors from EPA clean energy website  
+https://www.epa.gov/climateleadership/center-corporate-climate-leadership-ghg-emission-factors-hub.
+Scope 2 emissions result from electricity use for Apple‘s facilities, calculated using a market-based approach, following the WRI Greenhouse Gas Protocol.
+¹  Apple also calculates what our emissions would have been had we not taken action to supply new, clean renewable energy to our facilities. If we remove the emissions reduction benefits of our renewable energy  
+program, then our Scope 1 emissions in FY2017 would have been 70,780 metric tons CO?e and our Scope 2 emissions would have been 589,000 CO?e for our corporate operations, data centers, and retail stores. 
+In FY2017, combustion of biogas for our fuel cells resulted in 36,220 metric tons of direct CO? emissions. These emissions are not counted in Apple‘s footprint because they would have occurred naturally even if we 
+had not combusted the biogas.
+²  In FY2016, we began tracking electricity used at colocation facilities as part of Apple‘s footprint. We‘ve updated our FY2016 colocation facilities footprint to reflect more accurately Apple‘s operational boundaries. 
+Per the WRI Greenhouse Gas Protocol, we‘ve removed from our Scope 2 calculations those emissions associated with colocation facility cooling and building operations. This energy use, however, is still covered by 
+renewable energy. As a result, these Scope 3 effective emissions from this energy use was 550 metric tons CO?e in FY2016, and 500 metric tons in FY2017.
+³ Emissions from R&D processes.

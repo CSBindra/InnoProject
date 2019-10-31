@@ -1,0 +1,84 @@
+45Microsoft 2015 Citizenship Report
+5.5 Accessible Technology
+As a reflection of our commitment to human rights and to our billions of  
+users around the world, Microsoft seeks to provide products and services  
+that empower people across a broad range of abilities, cultures, languages,  
+and levels of economic development. 
+This commitment starts with offering people 
+access to technology in a language familiar  
+to them that respects linguistic and cultural 
+distinctions and helps sustain diverse local  
+languages and cultures. Through the Microsoft 
+Local Language Program, Microsoft collaborates 
+with local governments, language authorities, 
+universities, and NGOs to provide individuals 
+access to computing in their native language.  
+The local language program supports more than 
+108 languages, covering 4.5 billion speakers 
+around the planet. Under the program, Microsoft 
+provides a range of language and translation tools 
+and resources, including free Language Interface 
+Packs to make Windows and Office applications 
+available in local languages ranging from Albanian 
+to Yoruba. 
+In addition, Microsoft seeks to ensure our technol-
+ogy is accessible to the more than 1 billion people 
+around the world with a disability. The Microsoft 
+Accessibility Standard is a company-wide policy 
+that drives consideration for accessibility into the 
+design, development, evaluation, and release of  
+all of our products and services. Windows, Office, 
+Internet Explorer, Xbox, and our other products 
+and services include accessibility features and 
+controls such as the Ease of Access Center in 
+Windows. Beyond its own accessibility features, 
+Microsoft Office 2013 includes an Accessibility 
+Checker that helps users enhance the accessibility 
+of their documents and presentations. We’ve 
+found that many of our accessibility innovations 
+and features allow us to deliver more flexible user 
+experiences that benefit a wide range of our 
+customers, not just those with disabilities. 
+Microsoft offers guidance on accessibility to our 
+users, with accessibility information available in 
+over 40 languages. Microsoft Customer Support 
+provides a dedicated support desk for customers 
+who have disabilities or who are looking for support 
+when also using assistive technology, such as screen 
+readers, screen magnifiers, and speech recognition 
+commands. We provide guidance to help users 
+address a broad range of disabilities, including: 
+• Vision impairments
+• Dexterity and mobility impairments
+• Hearing impairments
+• Learning impairments
+• Language and communication impairments
+• Age-related impairments 
+We are continually working to raise the aware-
+ness of accessibility issues in the technology 
+industry. The Microsoft Accessibility Developer 
+Center provides guidance, tools, and technologies 
+for developing accessible applications and web 
+content. Our tools and guides help governments, 
+schools, businesses, and organizations integrate 
+technology for individuals with disabilities. Micro-
+soft Research and product teams also collaborate 
+with disability experts to unlock new uses for 
+technologies that can dramatically benefit people 
+with disabilities, such as helping individuals with 
+paralysis communicate with their families using 
+eye gaze technology and speech synthesizers on 
+the Microsoft Surface. For more information, see 
+the Microsoft Accessibility website.
+Our Company Our People Human Rights Responsible  
+Sourcing and 
+Manufacturing
+Ethical Business 
+Conduct and 
+Governance
+Environmental 
+Sustainability
+Empowering 
+Communities
+Performance 
+Highlights

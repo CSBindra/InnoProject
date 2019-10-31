@@ -1,0 +1,56 @@
+49Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+Product Environmental  
+Performance Indicators
+The following table summarizes the environmental performance indicators 
+relating to Apple’s products—including the life cycle greenhouse gas 
+emissions associated with the manufacturing, transportation, use, and  
+end-of-life processing of our products. In fiscal year 2017, we sold 
+216,756,000 iPhone, 43,753,000 iPad, and 19,251,000 Mac devices.¹
+We also publish individual product environmental reports for all of our 
+products. These are available at www.apple.com/environment/reports. 
+Fiscal Year 2017 2016 2015
+Scope 3 - Life cycle greenhouse gas emissions 
+(metric tons CO?e)² 27,100,000 29,200,000 38,000,000
+Manufacturing 21,100,000 22,800,000 29,600,000
+Product transportation 1,200,000 1,200,000 1,300,000
+Product use 4,700,000 4,900,000 6,600,000
+End of Life³ 100,000 300,000 500,000
+Packaging fiber footprint (metric tons) 145,000 129,000 133,000
+Recycled fiber 65% 62% 60%
+Responsibly sourced virgin fiber 35% 38% 40%
+Other virgin fiber — <1% <1%
+Packaging plastics footprint (metric tons) 24,000 34,000 36,000
+Average power use (kWh/year) 7.2 7 8.4
+Safer materials
+Arsenic? Removed from glass by 2008
+PVC? PVC-free AC power cord available in all regions except India and South Korea
+Beryllium Eliminated from all new product designs. Beryllium is found in copper alloys used to make connectors and springs
+Mercury Eliminated in display 2009
+Lead? Phased out of display glass and solder in 2006
+Brominated flame retardants (BFRs)? Eliminated from thousands of parts since 2008
+¹ As reported in Apple’s Form 10-K Annual Report filed with the SEC for FY2017.
+²  We have been calculating the life cycle greenhouse gas emissions of our products since 2007. Over time, we have greatly refined our model to include more Apple-specific data instead of industry averages. We 
+made significant modeling changes in FY2016 to improve how we calculate emissions from the integrated circuits in Apple products, which resulted in a decrease in manufacturing emissions. And we make systematic 
+changes each year to reflect changes in global electricity grids. Scope 3 emissions associated with employee commute and business travel are included in the Facilities Environmental Performance Indicators table.
+³ Carbon emissions associated with our products’ end of life decreased in FY2017, because of changes in methodology to more accurately reflect disposal and recycling practices.
+? Arsenic is present in minute quantities in some semiconductor devices.
+? Every Apple product is free of PVC and phthalates with the exception of power cords in India and South Korea, where we continue to seek government approval for our PVC and phthalates replacement.
+?  Apple products comply with the European Union Directive 2011/65/EU and its amendments, including exemptions for the use of lead. Apple is working to phase out the use of these exempted substances where 
+technically possible. 
+? While Apple’s phaseout covers the vast majority of products and components, recently acquired Beddit products and some older Apple product designs may not be fully BFR-free and PVC-free.
+Overview of Apple’s product life cycle carbon assessment (LCA) methodology
+Apple uses five steps when conducting a product LCA.
+1. To model the manufacturing phase, we use part-by-part measurements of the entire product along with data on part production. The measurements help us accurately determine the size and weight of the 
+components and materials in the product, while data on manufacturing processes and yield loss during production allows us to account for the impact of manufacturing. The LCA includes accessories, packaging, 
+and units that are repaired and replaced through AppleCare.
+2. To model customer use, we measure the power consumed by a product while it is running in a simulated scenario. Daily usage patterns are specific to each product and are a mixture of actual and modeled 
+customer use data. For the purposes of our assessment, years of use, which are based on first owners, are modeled to be four years for macOS and tvOS devices and three years for iOS and watchOS devices. Most 
+Apple products last longer and are passed along, resold, or returned to Apple by the first owner for others to use. More information on our product energy use is provided in our Product Environmental Reports.
+3. To model transportation, we use data collected on shipments of single products and multipack units by land, sea, and air. We account for transporting materials between manufacturing sites; transporting products 
+from manufacturing sites to regional distribution hubs; transporting products from regional distribution hubs to individual customers; and transporting products from final customers to recycling facilities.
+4. To model recycling, we use material composition data on our products and cover the treatment steps carried out by the recycler to obtain metal, plastic, and glass material streams. Subsequent processing and 
+remelting steps are not included, as these are considered stages of production and not end-of-life processing.
+5. After we collect data about production, use, transport, and recycling, we combine it with detailed greenhouse gas emission data. This emission data is based on a combination of Apple-specific and industry-
+average datasets for material production, manufacturing processes, electricity generation, and transportation. Renewable energy used in the supply chain, initiated by suppliers independently or through the Apple 
+Supplier Clean Energy Program, are also accounted for. Combining product-specific data with emission data in our LCA tool allows us to compile detailed results for greenhouse gas emissions as they relate to the 
+product. The data and modeling approaches are checked for quality and accuracy by the Fraunhofer Institute in Germany.

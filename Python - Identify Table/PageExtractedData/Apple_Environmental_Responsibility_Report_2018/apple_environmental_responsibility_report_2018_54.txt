@@ -1,0 +1,42 @@
+54Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+Prineville, Oregon
+To support our Prineville data center, we recently signed a 200-megawatt 
+power purchase agreement for a new Oregon wind farm, the Montague 
+Wind Power Project, set to come online by the end of 2019. This is our first 
+Apple-created wind project. And it’s our largest project to date, producing 
+over 560 million kilowatt-hours of clean, renewable energy a year. 
+Additionally, we executed a power purchase agreement for the 
+56-megawatt Solar Star Oregon II PV array located just a few miles from our 
+data center, which came online and began supporting the data center in 
+2017. The project produces 140 million kilowatt-hours of renewable energy 
+a year. To strengthen the connection between Apple and these projects, 
+we use Oregon’s Direct Access program to schedule the renewable energy 
+from these projects directly to our data center. 
+Also supporting the data center are two micro-hydro projects that harness 
+the power of water flowing through local irrigation canals that have been 
+operating for over 60 years. These micro-hydro projects generate 12 million 
+kilowatt-hours of renewable energy a year. 
+Supplementing these projects, and ensuring we remain 100 percent 
+renewable all the time, we executed a long-term purchase agreement 
+with Cypress Creek Renewables for all environmental attributes from a 
+50-megawatt portfolio of six solar arrays in Oregon. 
+In fiscal year 2017, the Prineville data center was supported by projects 
+that generated 195 million kilowatt-hours of renewable energy, which is 
+equivalent to the energy used by 17,916 Oregon homes.26
+Prineville, Oregon—100% renewable since opening May 2012
+195 million kWh energy use in fiscal year 2017
+Pacific Power Default Grid Mix Apple Actual Renewable Energy Use
+Coal 62% Apple’s Micro-Hydro Projects <1%
+Natural Gas 17% Oregon Wind (via Direct Access) 99.9%
+Other 6%
+Renewable 15%
+2017 Default Emissions 
+(mtons CO?e/year)
+57,980 2017 Effective Emissions 
+(mtons CO?e/year)
+0
+www.pacificpower.net/content/dam/pacific_power/ 
+doc/About_Us/Rates_Regulation/Oregon/11536-9_PP_
+ORLabelingInsert_LrgBiz_F.pdf
+Actual fiscal year 2017 energy data
+Wind + Low-impact hydro

@@ -1,0 +1,103 @@
+64Microsoft 2015 Citizenship Report
+7.3 Our Business Practices
+Driving Energy Efficiency 
+Across Our Operations
+Building Efficiency Investments
+Our last round of carbon-fee funded efficiency 
+projects and other energy-efficiency investments 
+by our Real Estate and Facilities group totaled  
+over $3.1 million in investments that reduced our 
+associated carbon emissions by 18,179 metric tons 
+and also paid for themselves in less than a year 
+with $3.6 million in energy savings. Beyond cost 
+savings, we’ve also found opportunities to create 
+new areas of revenue. Microsoft created an  
+analytical software solution that joined together 
+38,000 assets of disparate, sensor-enabled  
+equipment across the 125 buildings in our Puget 
+Sound headquarters. The system processes 500 
+million data transactions every day to prioritize 
+maintenance and repairs with the greatest  
+energy and cost saving potential. The solution is 
+generating energy savings of 10–11 percent and an 
+implementation payback of less than 24 months. 
+We are now expanding the solution to our other 
+campuses with equally good results: the software 
+identified $240,000 of energy savings at our 
+Mountain View, CA campus within the first 30 days 
+of deployment. We are sharing our results with 
+government and industry leaders from around  
+the globe and making similar solutions available 
+through partners to our customers (such as 
+through Microsoft CityNext offerings). With 
+inefficient commercial buildings responsible f 
+or upwards of 40 percent of the world’s energy 
+consumption, we see the huge potential environ-
+mental and business impacts from this approach.
+Datacenters 
+We’re designing energy-saving approaches into 
+our new datacenters, such as using outside air 
+cooling and airside economizers that dramatically 
+cut the energy and water used for cooling. This 
+approach to cooling reduces energy consumption 
+by 15-20 percent and water consumption by 90 
+percent. Overall, our datacenters average 1.4 PUE 
+(Power Usage Effectiveness, one measure of data 
+center efficiency), more efficient than the industry 
+average of 1.7 PUE.
+We are concerned about not just efficiency inside 
+the datacenter, but also how to create dramatically 
+more efficient systems, from the power plant to 
+the chip. Examples of this approach include the 
+pilot project datacenter in Cheyenne, Wyoming, 
+which ran completely independently of the grid 
+from 2014 to 2015 by using energy generated from 
+biogas, a byproduct of a nearby water treatment 
+plant. We’ve also pioneered a new concept to 
+integrate fuel cells directly into server racks, which 
+we expect to effectively cut datacenter energy 
+intensity in half by eliminating transmission losses 
+and other inefficiencies. We are working with 
+industry partners and the DOE to pilot and com-
+mercialize new energy technologies that will be 
+foundational to the next generation of efficient 
+datacenter designs. In another step forward in this 
+approach, in FY15 we established a partnership 
+with the University of Texas at San Antonio and the 
+school’s Texas Sustainable Energy Research Insti-
+tute to identify economically viable technologies 
+that further reduce the environmental footprint of 
+datacenters. Beyond the datacenters themselves, 
+we’re building energy-saving features into our 
+cloud services, such as the ability for developers to 
+automatically scale their resource use to demand. 
+Carbon Footprint  
+and Energy Use
+We have a longstanding commitment to  
+transparently disclosing our carbon footprint  
+and have voluntarily reported our carbon footprint 
+through CDP (formerly the Carbon Disclosure 
+Project) since 2004. Data on our carbon emissions 
+are available on the CDP website. We also have 
+pilot projects to encourage portions of our supply 
+base to report their emissions to CDP. In recogni-
+tion of our climate efforts, CDP included Microsoft 
+on its Global 500 Climate Performance Leadership 
+Index in the past two years. In September 2014, 
+we earned the top grade “A” in CDP’s assessment 
+of our performance to promote climate change 
+mitigation, adaptation, and transparency, and CDP 
+rated our disclosure and transparency on climate 
+issues at 99 out of 100. 
+Our Company Our People Human Rights Responsible  
+Sourcing and 
+Manufacturing
+Ethical Business 
+Conduct and 
+Governance
+Environmental 
+Sustainability
+Empowering 
+Communities
+Performance 
+Highlights

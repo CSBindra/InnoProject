@@ -1,0 +1,56 @@
+13Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+The cleanest energy is the energy you never use. 
+We’ve made energy efficiency a priority across all of our facilities,  
+seeing energy savings of 25 percent or more in the buildings assessed. 
+We have conducted extensive energy efficiency projects at our corporate 
+headquarters in Cupertino, California, and the surrounding Santa Clara 
+Valley where we operate more than 180 buildings. We’ve done the same  
+at other campuses with high energy use—such as Elk Grove and Austin. 
+As buildings age and our working needs change, we’ve undertaken 
+aggressive programs to improve the comfort and function of our facilities, 
+while ensuring they require less energy.
+From efficiency improvements made over the past six years, in fiscal 
+year 2016 we saved 55 million kilowatt-hours of energy—equivalent to 
+the electricity needed to power 4500 homes for a year. The efficiency 
+improvements include upgrading to LED lighting, retro-commissioning 
+building controls, and upgrading heating, ventilation, and air-conditioning 
+systems. When designing new buildings, we optimize energy through use 
+of high-efficiency lighting and heating, ventilation, and air-conditioning  
+systems and through careful selection of windows, insulation, shading, 
+and roofing materials to reduce heating and air-conditioning loads.
+We’re lessening our impact when we commute or hit  
+the road. 
+Even as we shrink the carbon footprint of Apple’s facilities, we’re 
+continuing to look for ways to reduce carbon emissions from business 
+fleet vehicles, employees’ commute, and business travel. Those emissions 
+grew by 8 percent in fiscal year 2016, primarily because our employee 
+count increased by 15 percent in the same period. However, emissions 
+from air travel and rental car mileage decreased despite our growth, 
+reflecting an emphasis on only business-critical travel. We also offer 
+our U.S. employees a transit subsidy of up to $100 per month, and at 
+our Cupertino and surrounding Santa Clara Valley campus, we offer free 
+coach buses to commute to and from our corporate offices. In fiscal year 
+2016, use of these coach buses increased by 4 percent. When Apple Park 
+opens, we will add 700 new electric vehicle charging ports, over 1000 new 
+campus bicycles, and a dedicated transit center.
+Transportation emissions
+metric tons CO2e
+metric tons CO2e/employee
+200,000
+160,000
+120,000
+80,000
+40,000
+FY13 FY14 FY15 FY16
+0
+2.0
+1.5
+1.5
+0.5
+0.0
+FY13 FY14 FY15 FY16
+Business Fleet Vehicles (Scope 1)
+Employees’ Commute (Scope 3)
+Business Travel (Scope 3)
+Transportation emissions 
+per employee

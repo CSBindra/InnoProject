@@ -1,0 +1,43 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CCF Letter of Assurance
+Client: Apple Inc. 2
+These criteria are also fundamental to the review of LCAs conducted for individual product 
+emissions. The reviewers note that the largest share (99%) of Apple Inc. annual corporate 
+carbon footprint is comprised of scope 3 emissions from individual products. The 
+aforementioned criteria have been regularly reviewed by Fraunhofer IZM since 2007 with a 
+view to providing independent feedback that can facilitate continuous improvement and 
+refinement in the LCA methodology applied by Apple Inc.  
+Data reported by Apple is as follows: 
+ Manufacturing Transportation Product Use Recycling 
+2016 22.77  1.20  4.86  0.30 
+[MMT CO2e] [MMT CO2e] [MMT CO2e] [MMT CO2e]
+MMT CO2e: million metric tons carbon dioxide equivalents 
+Including a reported value of 0.38 million metric tons CO2e for facilities (out of scope of 
+this verification), total CCF is reported to be 29.52 million metric tons CO2e. 
+Apple’s CCF includes greenhouse gas emissions reductions for manufacturing resulting 
+from Apple renewable energy projects, supplier renewable electricity purchases, and 
+supplier renewable electricity installations.  Many of these reductions are part of Apple’s 
+Clean Energy Program. Fraunhofer IZM has not verified these emissions reductions. 
+ 
+Based on the process and procedures conducted, there is no evidence that the Greenhouse 
+Gas (GHG) assertion with regards to scope 3 corporate carbon footprint 
+? is not materially correct and is not a fair representation of GHG data and 
+information, and 
+? has not been prepared in accordance with the related International Standard on 
+GHG quantification, monitoring and reporting. 
+2 Reviewed Data and Plausibility Check 
+A verification and sampling plan as required by ISO 14046-3 has been established in the 
+course of this CCF review and verification, defining the level of assurance, objectives, 
+criteria, scope and materiality of the verification. 
+As part of this review and verification Apple disclosed following data to Fraunhofer IZM:  
+? Sales data for FY2016, including accessories and including AppleCare, Apple's 
+extended warranty and technical support plans for their devices. 
+52

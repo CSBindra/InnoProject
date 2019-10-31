@@ -1,0 +1,40 @@
+100%
+Apple data centers are powered by  
+100 percent renewable energy.
+14Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+Product Usage
+We take responsibility for every watt  
+of power you use on your device.
+The energy it takes to run your device during its expected lifespan is 
+added to our carbon footprint. That includes the energy it takes to  
+charge your device, which often comes from carbon-intensive sources 
+such as coal or natural gas. So we’re always developing new ways to make 
+our products as efficient as possible. For example, macOS puts storage 
+media to sleep and runs processors in an ultralow power mode when 
+you’re not hard at work. And when you are, it uses less energy for apps 
+that are open but not visible, and pauses animated website plug-ins until 
+you give the OK. It can even idle the processor to its lowest power state 
+between keystrokes and while the display is on. These energy savings 
+might seem tiny, but when multiplied by every Apple computer in the 
+world, they’re huge.
+iMessage, FaceTime, and Siri run on 100 percent  
+renewable energy. 
+Every time you send an iMessage, make a FaceTime call, ask Siri a 
+question, download a song, or share a photo, it takes energy. We’re proud 
+to say that all those tasks are handled by Apple data servers running on 
+100 percent renewable energy. All told, in 2015 our data centers avoided 
+187,000 metric tons of CO?e emissions. And in 2016, that number grew 
+to more than 330,000 metric tons. When we need additional capacity, 
+we work with third-party data centers. Even though we don’t own these 
+colocation facilities, and share them with other companies, we still 
+include them in our renewable energy goals. So we’re working with these 
+providers to get them to 100 percent renewable energy too. And we’re 
+proud that in 2016, more than 99 percent of their electricity came from 
+renewable sources.
+Each of our data centers has unique design features that reflect the 
+climate and other aspects specific to its location. Our data centers are 
+built with the environment in mind, often including innovative energy 
+efficiency measures. Our data centers in North Carolina, Oregon, and 
+Nevada earned LEED Platinum certification from the U.S. Green Building 
+Council—the highest level possible. For more information about Apple’s 
+industry-leading efforts to green our data centers, see Appendix B.

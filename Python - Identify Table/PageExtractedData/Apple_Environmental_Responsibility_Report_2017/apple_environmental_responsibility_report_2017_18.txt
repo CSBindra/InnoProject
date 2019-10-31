@@ -1,0 +1,40 @@
+18Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+But sourcing isn’t enough—we want to recover as much tin as we’re using 
+and make sure it’s put back into the world’s supply. Unfortunately, tin is 
+not recovered by all electronics recyclers. So we are working to identify tin 
+recyclers and ensure that the material is being consistently recovered and 
+recycled from our products. To start, we are sending iPhone 6 main logic 
+boards recovered by Liam to a recycler who can reclaim the tin in addition 
+to the copper and precious metals. We are now looking for ways to do this 
+on a larger scale for tin—and apply what we’ve learned to other materials. 
+For example, we’re experimenting with ways to recover cobalt from our 
+lithium-ion batteries and use recycled cobalt.
+Throughout this process, we’re learning a lot about how to create closed-
+loop supply chains. For some materials, sourcing recycled content will be 
+sufficient as long as we ensure the same amount is recovered, recycled, 
+and put back on the market. Where recycled content isn’t available at 
+the desired quality, we can drive improvements in recycling technologies 
+and a tighter closed loop—such as using material from old Apple devices 
+to build new ones. And when there are materials for which recycling 
+technologies don’t yet exist, we’ll need to invest in research and other 
+technology solutions.
+For every 100,000 iPhone 6 
+devices, Liam has the potential 
+to recover the following  
+materials:
+Aluminum (1900 kg) 
+Copper (800 kg) 
+Gold (0.3 kg) 
+Platinum Group Metals (0.4 kg) 
+Silver (7 kg) 
+Tin (55 kg) 
+Rare Earth Elements (24 kg) 
+Cobalt (550 kg) 
+Tungsten (3.5 kg) 
+Tantalum (2.5 kg)
+Liam is a line of robots that  
+disassembles iPhone 6 into  
+individual components, making  
+it easier to recover finite  
+resources such as aluminum, 
+tungsten, and cobalt.

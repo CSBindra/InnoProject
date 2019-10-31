@@ -1,0 +1,39 @@
+66Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Comprehensive Carbon Footprint Letter of Assurance
+Client: Apple Inc. 4
+2017 cover product segments MacBook Pro, Apple Watch, iPad, and iPhone. These recently 
+reviewed LCA studies cover products which represent in total 45,7% of the total scope 3 
+carbon footprint. Representatives of other product segments (iPod, MacBook, iMac, Mac 
+Pro, Mac Mini, Airport Express / Airport Extreme, Apple TV, and Beats products) underwent 
+no or only minor design changes compared to those which went through a full LCA review 
+in former years. All reviewed LCA studies up to now cover in total 73,5% of the total scope 
+3 carbon footprint. 
+End-of-life models were updated this year to better reflect actual recycling and disposal of 
+packaging materials and products. The reduced carbon footprint of end-of-life processes 
+compared to former fiscal years is largely due to this improved modelling approach.   
+All questions raised in the course of the review were answered by Apple and related 
+evidence was provided where needed. 
+4 Conclusions 
+Apple’ assessment approach is excellent in terms of granularity of the used calculation 
+data. A significant share of components is modelled with accurate primary data from 
+Apple’s suppliers.  
+For all product LCA calculations, where exact data was missing, the principle of a worst-
+case approach has been followed and results have been calculated with rather conservative 
+estimates.   
+The review has not found assumptions or calculation errors on the carbon footprint data 
+level that indicate the scope 3 carbon footprint has been materially misstated. The excellent 
+analysis meets the principles of good scientific practice.    
+Berlin, March 29, 2018 
+   
+- Karsten Schischke -  - Marina Proske - 
+Fraunhofer IZM  Fraunhofer IZM 
+Dept. Environmental and Dept. Environmental and  
+Reliability Engineering  Reliability Engineering 

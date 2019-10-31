@@ -1,0 +1,45 @@
+55Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+Solar
+Reno, Nevada 
+Unlike competitive energy markets where we’ve located some of our data 
+centers, the regulated electricity supply in Nevada did not offer a simple 
+solution for us to create new renewable energy projects dedicated to our 
+data center. So we created a partnership with the local utility, NV Energy, 
+to develop our first renewable project: the Fort Churchill Solar PV project. 
+Apple designed, financed, and constructed the project, and NV Energy 
+operates it and directs all the renewable energy it produces to our data 
+center. The Fort Churchill Solar PV project uses a new kind of photovoltaic 
+panel with curved mirrors that concentrate sunlight. The 20-megawatt array 
+has an annual production capacity of over 43 million kilowatt-hours of clean, 
+renewable energy. 
+To facilitate further renewable development in Nevada, Apple worked with 
+NV Energy and the Nevada utility commission to create a green energy 
+option open to all commercial customers that does not require the customer 
+to fund project development up-front. Thanks to this new option, the 
+Nevada Green Rider, in 2015 we announced our second Nevada solar array: 
+a 50-megawatt project called Boulder II. This project came online in 2017, 
+producing 137 million kilowatt-hours of renewable energy a year. 
+In 2017 and early 2018, we used the green energy option two more times. 
+Our third Nevada solar array is a 200-megawatt project called Techren 
+Solar—Apple‘s largest solar array to date—estimated to produce over  
+540 million kilowatt-hours of clean, renewable energy a year. And our fourth 
+Nevada solar array is the 50-megawatt Turquoise Nevada project producing 
+110 million kilowatt-hours a year.
+In fiscal year 2017, the Reno data center was supported by projects 
+that generated 186 million kilowatt-hours of renewable energy, which is 
+equivalent to the energy used by 16,756 Nevada homes.26
+Reno, Nevada—100% renewable since opening December 2012
+186 million kWh energy use in fiscal year 2017
+NV Energy—North Default Grid Mix Apple Actual Renewable Energy Use
+Natural Gas 52% Apple‘s Solar PV Projects 99.7%
+Coal 22% Other Solar PV (PPA) 0.3%
+Other 3%
+Renewable 23%
+2017 Default Emissions 
+(mtons CO?e/year)
+45,820 2017 Effective Emissions 
+(mtons CO?e/year)
+0
+www.nvenergy.com/bill_inserts/2017/Power_Content_ 
+Insert_NVE-North_2017-01.pdf
+Actual fiscal year 2017 energy data

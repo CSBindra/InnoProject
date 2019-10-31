@@ -1,0 +1,93 @@
+VOLKSWAGEN GROUP SUSTAINABILITY REPORT 2017
+111
+Appendix  |  GRi COnTenT index Appendix  |  GRi COnTenT index
+GRI CONTENT INDEX
+GRI  
+Standard
+Disclosure References Comments UNGC SDG GSC
+EFFLUENTS AND WASTE 
+GRi 103: Management Approach 2017
+103-1 explanation of the material topic and 
+its Boundary 
+50, 65, 66 7, 9 12, 13, 14, 
+15
+2, 4
+103-2 The management approach and its 
+components 
+50–52, 54, 65–67 7, 9 12, 13, 14, 
+15
+3, 6, 11, 12
+103-3 evaluation of the management 
+approach 
+50–51 7, 9 12, 13, 14, 
+15
+3, 7
+GRi 306: effluents and Waste 2017
+306-1 Water discharge by quality and 
+ destination 
+66 8, 9 3, 6, 12, 14 11
+306-2 Waste by type and disposal method  67, 100–101 8, 9 3, 6, 12 11, 12
+306-3 Significant spills  — no significant spills were registered in the reporting period. 8, 9 3, 6, 12, 
+14, 15
+11
+306-4 Transport of hazardous waste  — Total weight cannot be computed due to the size and com-
+plexity of the company. We do not import any waste, we only 
+export small volumes of waste, and we only dispose of waste 
+in the countries in which it is generated or export it to other 
+countries if these offer better disposal methods.
+8 3,12 11, 12
+306-5 Water bodies affected by water 
+ discharges and/or runoff 
+66, 101 8, 9 6, 15 11, 12
+ENVIRONMENTAL COMPLIANCE
+GRi 103: Management Approach 2017
+103-1 explanation of the material topic and 
+its Boundary 
+63 7 12, 13, 14, 
+15
+2, 4
+103-2 The management approach and its 
+components 
+44–45, 63 7 12, 13, 14, 
+15
+3, 6, 11, 12
+103-3 evaluation of the management 
+approach 
+44–45, 63 7 12, 13, 14, 
+15
+3, 7
+GRi 307: environmental Compliance 2017
+307-1 non-compliance with environmental 
+laws and regulations 
+Annual Report 2017: Litigation 7 16
+SUPPLIER ENVIRONMENTAL ASSESSMENT
+GRi 103: Management Approach 2017
+103-1 explanation of the material topic and 
+its Boundary 
+50 7, 8, 9 2, 4
+103-2 The management approach and its 
+components 
+36–41 7, 8, 9 3, 6, 11, 12
+103-3 evaluation of the management 
+approach 
+39–41 7, 8, 9 3, 7
+GRi 308: Supplier environmental Assessment 2017
+308-1 new suppliers that were screened using 
+environmental criteria 
+39;
+Code of Conduct for Business 
+partners  
+(https://www.volkswagenag.
+com/presence/nachhaltigkeit/
+documents/policy- 
+intern/2016%20Code%20
+of%20Conduct%20for%20
+Business%20partners%20 
+de-en.pdf)
+8 11, 12
+308-2 negative environmental impacts in the 
+supply chain and actions taken 
+37–38, 40;
+Annual Report 2017: 
+ procurement
+8 4, 11, 12

@@ -1,0 +1,84 @@
+                                                                                                                                                         
+                                                           Scopes         1  and      2   Building         Carbon                                        
+                                                           Emissions           (metric         tons      CO?e)                                           
+                                                                                                                                                         
+              Fiscal  Year  2016                                                                                                                         
+                                                               Scope  1¹                                       Scope 2²                                  
+                                                                                                                                                         
+                        Location             Default  Utility  Emissions³ Apple  Emissions                                                               
+                                                                     (incl.  Renewable  Energy) Default  Utility Emissions³ Apple  Emissions             
+                                                                                                                     (incl.  Renewable  Energy)          
+                                                                                                                                                         
+              Corporate                    22,109                  20,537                  166,990                 30,408                                
+              Cupertino,  CA               18,693                  17,121                  52,884                  0                                     
+              Elk  Grove,  CA              397                     397                     3790                    0                                     
+              Austin,  TX                  248                     248                     32,305                  0                                     
+              Other  U.S.                  883                     883                     7476                    0                                     
+              Cork,  Ireland               780                     780                     8915                    0                                     
+              Singapore                    65                      65                      8084                    0                                     
+              China                        38                      38                      10,878                  0                                     
+              Other  International         1005                    1005                    42,658                  30,408                                
+                                                                                                                                                         
+              Data  centers                28,731                  2738                    334,824                 2269                                  
+              Maiden,  NC                  26,119                  126                     103,296                 0                                     
+              Newark,  CA                  139                     139                     24,993                  0                                     
+              Prineville,  OR              1077                    1077                    83,912                  0                                     
+              Reno,  NV                    713                     713                     31,222                  0                                     
+              Mesa,  AZ                    683                     683                     7601                    0                                     
+              Colocation  Facilities?       —                       —                      83,800                  2269                                  
+                                                                                                                                                         
+              Retail  stores               3679                    3679                    97,708                  8924                                  
+              Domestic  (U.S.)             1597                    1597                    42,050                  0                                     
+              International                2082                    2082                    55,658                  8924                                  
+                                                                                                                                                         
+              Totals                       54,519                  26,954                  599,522                 41,601                                
+              Fiscal  Year  2015                                                                                                                         
+                                                                                                                                                         
+              Corporate                    16,960                  15,423                  106,134                 19,564                                
+              Cupertino,  CA               14,792                  13,256                  42,074                  0                                     
+              Elk  Grove,  CA              369                     369                     3279                    0                                     
+              Austin,  TX                  233                     233                     20,874                  0                                     
+              Other  U.S.                  121                     121                     2715                    0                                     
+              Cork,  Ireland               892                     892                     6227                    0                                     
+              Singapore                    0                       0                       5310                    3767                                  
+              China                        117                     117                     9050                    2201                                  
+              Other  International         435                     435                     16,605                  13,596                                
+                                                                                                                                                         
+              Data  centers                24,543                  136                     186,586                 0                                     
+              Maiden,  NC                  24,530                  123                     99,907                  0                                     
+              Newark,  CA                  0                       0                       26,519                  0                                     
+              Prineville,  OR              13                      13                      39,507                  0                                     
+              Reno,  NV                    0                       0                       20,653                  0                                     
+                                                                                                                                                         
+                                                                                                                                                         
+              Retail  stores               3800                    3800                    86,070                  22,893                                
+              Domestic  (U.S.)             2269                    2269                    42,543                  0                                     
+              International                1531                    1531                    43,527                  22,893                                
+                                                                                                                                                         
+                                                                                                                                                         
+              Totals                       45,303                  19,359                  378,790                 42,457                                
+              Fiscal  Year  2014                                                                                                                         
+                                                                                                                                                         
+              Corporate                    16,716                  15,335                  86,842                  21,555                                
+              Cupertino,  CA               14,310                  12,929                  36,496                  0                                     
+              Elk  Grove,  CA              411                     411                     2516                    0                                     
+              Austin,  TX                  148                     148                     15,149                  0                                     
+              Other  U.S.                  115                     115                     2270                    0                                     
+              Cork,  Ireland               1000                    1000                    7678                    0                                     
+              Singapore                    51                      51                      6852                    6852                                  
+              China                        385                     385                     8577                    8577                                  
+              Other  International         296                     296                     7304                    6126                                  
+                                                                                                                                                         
+              Data  centers                26,854                  18                      148,320                 0                                     
+              Maiden,  NC                  26,835                  0                       92,306                  0                                     
+              Newark,  CA                  0                       0                       38,278                  0                                     
+              Prineville,  OR              18                      18                      10,392                  0                                     
+              Reno,  NV                    0                       0                       7344                    0                                     
+                                                                                                                                                         
+              Retail  stores               5355                    5355                    82,770                  41,658                                
+              Domestic  (U.S.)             2812                    2812                    45,041                  11,036                                
+              International                2543                    2543                    37,729                  30,662                                
+                                                                                                                                                         
+              Totals                       48,924                  20,708                  317,932                 63,213                                
+                                                                                                                                                         
+                                                           Environmental  Responsibility  Report    |    2017 Progress  Report,  Covering  FY2016 38     

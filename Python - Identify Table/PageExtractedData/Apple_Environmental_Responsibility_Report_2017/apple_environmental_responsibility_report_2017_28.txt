@@ -1,0 +1,35 @@
+28Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+Safer Materials
+How do we make sure our products stay  
+safe for people and planet?
+We run our own environmental  
+testing lab. 
+To protect people and the planet, we set strict standards on the  
+materials used in our devices, often going far beyond what’s required 
+by law. We also built the Environmental Testing Lab, where our chemists 
+and toxicologists look for any potentially harmful substances rather than 
+waiting for a third party to identify them for us. One process we use 
+involves laser-based instruments—just like the one used by the Mars 
+rover to analyze soil samples—to ensure that our products are free of 
+beryllium. The lab also uses tools like inductively coupled plasma mass 
+spectrometry, X-ray fluorescence spectroscopy, and ion, liquid, or gas 
+chromatography. If we find an issue, we work with the supplier to correct 
+it. Since creating our Cupertino Environmental Testing Lab in 2006, we’ve 
+grown it to over 20 times its original size, and have regularly updated it 
+with state-of-the-art equipment. We’ve also been building out testing labs 
+at our manufacturing facilities to test and validate products throughout 
+the manufacturing process.
+Our scientists have cataloged and analyzed more than  
+20,000 individual parts.
+We started our Full Material Disclosure program to identify all the 
+substances we use in all the parts we use. We’ve already looked at more 
+than 20,000 individual components out of the 40,000 present in all our 
+products, prioritizing materials that come into frequent skin contact and 
+those present in greatest quantity, and we get data on more parts every 
+day. We assess the different chemicals in those components using  
+18 different criteria. This helps us understand their effect on people’s 
+health and on the environment.
+Learn more about how Apple is  
+integrating toxicological assessments 
+into our materials selection process. 
+Download the white paper  ??

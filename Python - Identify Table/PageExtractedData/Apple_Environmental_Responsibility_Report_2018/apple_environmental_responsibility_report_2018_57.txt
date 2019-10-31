@@ -1,0 +1,46 @@
+57Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+Denmark has a long tradition of biomass energy generation from agricultural 
+waste products. Apple is partnering with Aarhus University (Viborg campus) 
+to co-develop an agricultural waste biomass project. Methane from the 
+biomass digester reaction will be used to create renewable electricity for 
+our data center. Much of the agricultural waste going into the digester will 
+come from local farms in a mutually beneficial relationship. They bring us 
+their agriculture waste material to use as feedstock for the digester, and we 
+give them the nutrient-rich by-product of the digestion process, which they 
+can apply to their fields. 
+Viborg, Denmark—100% renewable (currently in construction)
+37,000 kWh energy use in fiscal year 2017
+Energinet Default Grid Mix Apple Actual Renewable Energy Use
+Natural Gas 8% Utility Wind Purchase 100%
+Coal 28% Apple’s Wind Project pending
+Other / Unspecified 2%
+Renewable 62%
+2017 Default Emissions 
+(mtons CO?e/year)
+7 2017 Effective Emissions 
+(mtons CO?e/year)
+0
+www.aib-net.org/documents/103816/176792/AIB_ 
+2016_Residual_Mix_Results.pdf/6b49295b-ad99- 
+a189-579e-877449778f62
+Actual fiscal year 2017 energy data
+Our colocation facilities 
+The majority of our online services are provided by our own data centers; 
+however, we also use third-party colocation facilities for additional data 
+center capacity. While we don’t own these shared facilities and use only a 
+portion of their total capacity, we include our portion of their energy use in 
+our renewable energy goals. Over 99 percent of our power for colocation 
+facilities is matched with renewable energy generated within the same state 
+or NERC region for facilities in the United States, or within the same country 
+or regional grid for those around the world. And we will keep working with 
+the colocation suppliers to get to 100 percent. 
+Furthermore, we worked with one of our main suppliers of colocation 
+services to help it develop the capability to provide renewable energy 
+solutions to its customers. This partnership advances Apple’s renewable 
+energy program and those of other companies that use this colocation 
+provider. 
+Beyond the use of our own data centers and colocation facilities, we also 
+use third-party computing services to support some of our on-demand 
+cloud storage–based services. We encourage these suppliers to adopt a 
+100 percent renewable energy strategy for their energy use.
+Wind

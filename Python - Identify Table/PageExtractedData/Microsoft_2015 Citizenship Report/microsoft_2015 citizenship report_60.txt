@@ -1,0 +1,78 @@
+60Microsoft 2015 Citizenship Report
+7.2 Products
+We are committed to delivering products, solutions, and services that help 
+organizations boost efficiency and minimize environmental impact.
+Driving Energy Efficiency  
+in and with Our Services  
+and Devices
+We are focused on and committed to increasing 
+computing power per unit of energy consumed 
+across the services and devices that we offer in  
+the marketplace. Each new version of Windows 
+offers enhancements to energy efficiency and 
+power management tools, including a new Energy 
+Saver Mode added to Windows 10. Third-party 
+applications also have an important role to play, 
+and we provide energy-smart development 
+guidance and tools for developers and IT profes-
+sionals developing for the Windows platform.
+In FY15, Microsoft certified its first ENERGY STAR 
+and EPEAT registered product, Surface Pro 3, when 
+the standards were revised to bring tablets into 
+scope. FY15 was also the first year for ULE 110 
+certifications of mobile phones. This certification 
+establishes multiple sustainability criteria for 
+mobile phones, including packaging, materials, 
+manufacturing and operations, energy efficiency 
+of the power supply, health and environment, and 
+end of life management. All Xbox consoles are 
+configured to automatically reduce energy use 
+while inactive. We also have committed to limit 
+Xbox energy consumption in dashboard and 
+media play.
+ 
+We work to reduce the environmental impacts of 
+our products and services but see even greater 
+opportunity to benefit the environment at scale by 
+delivering products, solutions, and services that 
+help our customers’ organizations boost efficiency 
+and minimize their environmental impact. 
+Cloud and Azure
+As a carbon neutral cloud services provider, 
+Microsoft offers organizations a carbon-efficient 
+and carbon neutral alternative to running their 
+own private datacenters. Moving to Microsoft 
+cloud services for Microsoft Exchange, Microsoft 
+SharePoint, and Microsoft Dynamics CRM capabili-
+ties can help businesses reduce energy use and 
+carbon emissions by 30 to 90 percent per user 
+versus running on-premises. 
+With Microsoft Azure, businesses can use  
+Microsoft carbon neutral datacenters for  
+on-demand compute and storage, helping save 
+energy costs and reduce their company’s carbon 
+footprint while also reducing the capital costs 
+associated with purchasing hardware and infra-
+structure. The Microsoft cloud is also connecting 
+public and private data sources with the privacy, 
+security, and control needed for cities to have 
+effective cross-departmental collaboration  
+and resource sharing for greater efficiency; the 
+scalability and cost-effectiveness of cloud services 
+help reduce costs without cutting essential  
+services. Organizations that invest in Microsoft 
+Azure will be able to harvest information and data 
+as resources to help service increasing populations 
+more efficiently and with less waste. 
+Our Company Our People Human Rights Responsible  
+Sourcing and 
+Manufacturing
+Ethical Business 
+Conduct and 
+Governance
+Environmental 
+Sustainability
+Empowering 
+Communities
+Performance 
+Highlights

@@ -1,0 +1,38 @@
+65Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+ 
+ 
+ 
+  
+ 
+ 
+  
+Comprehensive Carbon Footprint Letter of Assurance
+Client: Apple Inc. 3
+? Regional distribution of sold units and country specific allocation per product to 
+major sell-in countries 
+? Product specific data on transportation including breakdown of air and sea 
+shipment 
+? Life cycle GHG emissions for all products, differentiating the actual product 
+configurations (i.e. memory capacity) 
+? Calculation methodology for the comprehensive carbon footprint and 
+methodological changes implemented in 2017 
+? The total carbon footprint – scope 3 for the fiscal year 2017 
+? Detailed analysis of the comprehensive carbon footprint including: 
+o The breakdown of the carbon footprint into life cycle phases 
+manufacturing, transportation, product use and recycling 
+o Detailed product specific split into life cycle phases 
+o The contribution of individual products and product families to the overall 
+carbon footprint 
+The data and information supporting the GHG assertion were projected (use phase and 
+recycling) and historical (i.e. fiscal year 2017 data regarding sales figures, manufacturing, 
+transportation). 
+This review comprises a check of selected data, which are most influential to the overall 
+carbon footprint. The overall plausibility check addressed the following questions: 
+? Are product LCAs referenced correctly? 
+? Are results for products, for which no full LCA review was undertaken, plausible? 
+? Are carbon emission data for individual products plausible in the light of 
+methodological changes as indicated by Apple?  
+This review was done remotely. 
+3 Findings 
+Since the FY2016 Carbon Footprint review in early 2017 6 recent product LCA studies have 
+been reviewed successfully against ISO 14040/44. These LCAs and LCAs reviewed in early 

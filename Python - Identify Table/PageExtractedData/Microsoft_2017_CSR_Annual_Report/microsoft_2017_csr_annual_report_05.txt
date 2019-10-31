@@ -1,0 +1,46 @@
+Microsoft 2017 Corporate Social Responsibility Report 5
+Principles People Planet ResourcesOur approach
+The strength of our results across our reporting segments reflects our accelerating 
+innovation as well as increased customer usage and engagement across our busi-
+nesses. 
+• More than 100 million people use Office 365 commercial.
+• More than 27 million consumers use Office 365 Home & Personal across devices.
+• More than 53 million members are active on Xbox Live. 
+• More than 500 million LinkedIn members use the LinkedIn network.
+• Windows 10 is active on more than 500 million devices around the world.
+• Dynamics 365 customers grew more than 40 percent year-over-year.
+• Azure compute usage more than doubled year-over-year.
+We prioritized our investments to capture our expanding market opportunities. We 
+are investing for the future with product innovation complemented by new acquisi-
+tions and partnerships. We have completed our acquisition of LinkedIn to connect 
+the world’s largest professional network with the world’s leading professional cloud. 
+We are investing to create broader economic benefit and opportunity with our 
+datacenter expansion, bringing Azure to 42 regions globally — more than any other 
+cloud provider — and with the most comprehensive compliance coverage in the 
+industry.
+We broadened our offerings to reach new audiences, such as bringing Office 365 
+to firstline workers from retail and hospitality to manufacturing. We took collabo-
+ration to a new level with Microsoft Teams, which brings people, conversations and 
+content together in a digital hub. We are in the forefront of innovating in mixed 
+reality and how this new medium can radically change gaming, firstline and knowl-
+edge work through immersive experiences. We are innovating in gaming with new 
+services such as Mixer and Xbox Game Pass. We introduced hundreds of new Azure 
+services, including new cognitive services APIs for vision, speech, text, translation, 
+emotion and more. We have galvanized the company’s efforts around AI both to 
+power each of our product categories with breakthrough capabilities and make the 
+same capabilities available to our customers through Azure. We inspired new ways 
+for students and teachers to create and learn with Windows 10 S. And we continued 
+to create new device categories with Windows 10 and Surface, including the new 
+Surface Studio and Laptop. 
+And we’re continually transforming to better serve customers, evolving our sales 
+and marketing approach to galvanize around five core customer solution areas.
+Across every industry in every corner of the world, our customers are using Micro-
+soft technologies to radically transform everything from agriculture to manufactur-
+ing, and we are only at the beginning. Here are some examples.
+BOEING
+Boeing is using Microsoft HoloLens for 3-D visualization to transform employee 
+training, and it is using Cortana Intelligence, Azure and Azure IoT to harness a 
+wealth of aircraft data. This “digital twin” aircraft increases crew and maintenance 
+efficiency, improves customer experience, and creates a new business model and 
+services that Boeing can offer its airline customers.
+Watch video ?

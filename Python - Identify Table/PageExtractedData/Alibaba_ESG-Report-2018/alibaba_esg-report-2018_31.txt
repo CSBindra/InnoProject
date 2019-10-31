@@ -1,0 +1,100 @@
+Data handling protocols are 
+centralized and organized  
+to ensure accountability; we 
+enforce stringent guidelines 
+and rules. We collect, classify 
+and manage data in a 
+rigorous and systematic 
+manner to protect user 
+privacy.
+Data must be used for agreed objectives 
+or purposes,	in	a	relevant	way,	and	within	
+an agreed	scope.	Analysis	of	personally	
+identifiable data is done on an aggregated, 
+anonymized basis. We are committed to best 
+practices such as limiting access to data only 
+to designated personnel and minimizing data 
+collection and retention. Operation logs are 
+kept, and disaster recovery and backup 
+mechanisms have been established to  
+help guarantee data integrity.
+We follow clear standards for sharing data 
+among affiliates and related third parties, 
+and we provide a self-developed secure data 
+upload tool for affiliates and authorized third 
+parties to access desensitized customer data.
+We comply with applicable laws and 
+regulations in the markets where we operate 
+when sharing personal data of our customers 
+with third parties, and we obtain opt-in or 
+opt-out	consents	as	required.	In	2018,	we	
+have been devoting considerable resources 
+to complying with the European Union’s 
+General	Data	Protection	Regulation	(GDPR).	
+Our Chief Risk Officer oversees both 
+cybersecurity and data protection. We have 
+a large	team	dedicated	to	developing	our	
+data protection policies and procedures, 
+and we	are	engaged	with	data	privacy	
+experts worldwide, constantly learning 
+from leading	industry	practices.
+DATA CLASSIFICATION, 
+ACCESS, AND USAGE
+At the heart of how we manage data is  
+the way we classify it. We have a detailed 
+protocol for categorizing data along a 
+spectrum of usage as well as sensitivity. We 
+designate sensitive data as either customer’s 
+personally identifiable data, business data 
+generated from our platforms, or Alibaba 
+corporate data. Then we further classify  
+data and assign security levels appropriately, 
+into either public (level 1), internal (level 2), 
+confidential (level 3), or secret (level 4- 
+the highest).	
+The	use	of	all	data	requires	identity	
+verification of the user applying for data 
+access as well as authorization by designated 
+responsible persons, and authorization is 
+subject to time limits.
+Differing levels of sensitive data are 
+protected appropriately, so as to guarantee 
+the safety of data use by our employees.  
+For example:
+• For massive data usage scenarios, it is 
+mandatory for our staff to use our proprietary 
+data leakage prevention tool to ensure data 
+cannot be downloaded to the local hosts.
+• We have robust measures, including 
+proprietary mobile device management 
+(Alilang) and data leakage prevention  
+(Cloud Shell) software, which can prevent 
+data leakage by monitoring abnormal 
+behavior of employees and giving timely 
+alerts to their managers.
+• We are continually improving our data  
+flow tracing capability, such as traceable 
+watermarks embedded in company files.
+• For our open platform, we encrypt level-3 
+and level-4 data before transfering to our 
+authorized sellers’ independent software 
+vendors.
+Alibaba Group and our affiliates, such as Ant 
+Financial Services and our logistics subsidiary 
+Cainiao Network, have a well-established 
+framework in place to share certain types of 
+data in controlled environments in order to 
+improve our service offering to customers. 
+We have implemented strict rules and 
+protocols for data sharing with affiliates, 
+including physical storage, prohibition of data 
+duplication and a data oversight committee. 
+Data Protection continued
+More information on policies 
+regarding our	Data	Sharing	
+Agreement with	affiliates	can	be	 
+found	in	our most	recent	annual	 
+report on Form 20-F, page 201.
+Alibaba Group Holding Limited ESG Report 2018? 30
+OVERVIEW GOVERNANCE TRUST SOCIAL ENVIRONMENT APPENDIX
+|?INTELLECTUAL PROPERTY RIGHTS PROTECTION?|?CYBERSECURITY?|?DATA PROTECTION?|

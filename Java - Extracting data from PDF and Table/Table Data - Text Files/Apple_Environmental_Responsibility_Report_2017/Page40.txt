@@ -1,0 +1,103 @@
+                                                                                                                                                         
+                                                           Fiscal      Y ear     2016       Natural         Gas      and                                 
+                                                           Electricity          Use                                                                      
+                                                                                                                                                         
+                                                           The  chart below  provides a detailed breakdown   of fiscal  year  2016  energy               
+                                                           use, which  is  used  to  calculate  our carbon  emissions.                                   
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+              Fiscal  Year  2016                                                                                                                         
+                                                                                                                                                         
+                                                              Natural  Gas                                     Electricity                               
+                                                                                                                                                         
+                                                                                                                                                         
+                         Location                  Total  Gas           Renewable  Biogas        Total  Electricity    Renewable  Electricity            
+                                                   (mmBTU)                 (mmBTU)                (million  kWh)          (million  kWh)                 
+                                                                                                                                                         
+              Corporate                    414,003                 29,712                  473                      419                                  
+              Cupertino,  CA               351,905                 29,712                  260                      260                                  
+              Elk  Grove,  CA              7456                    0                       13                       13                                   
+              Austin,  TX                  4668                    0                       54                       54                                   
+              Other  U.S.¹                 16,552                  0                       20                       20                                   
+              Cork,  Ireland               13,767                  0                       14                       14                                   
+              Singapore                    0                       0                       18                       18                                   
+              China                        1874                    0                       12                       12                                   
+              Other  International¹        17,779                  0                       82                       28                                   
+                                                                                                                                                         
+              Data  centers                491,378                 491,159                 778                      775                                  
+              Maiden,  NC                  491,159                 491,159                 244                      244                                  
+              Newark,  CA                  0                       0                       130                      130                                  
+              Prineville,  OR              185                     0                       115                      115                                  
+              Reno,  NV                    0                       0                       90                       90                                   
+              Mesa,  AZ                    33                      0                       19                       19                                   
+              Colocation  Facilities²      —                       —                       180                      177                                  
+                                                                                                                                                         
+                                                                                                                                                         
+              Retail  stores               69,197                  0                       203                      191                                  
+              Domestic  (U.S.)             29,994                  0                       99                       99                                   
+              International                39,203                  0                       104                      92                                   
+                                                                                                                                                         
+              Totals                       974,577                 520,871                 1454                     1385                                 
+                                                                                                                                                         
+              Percent  Renewable³                                  53%                                              95%                                  
+                                                                                                                                                         
+                                                                                                                                                         
+             — Data  not tracked                                                                                                                         
+             ¹Includes  energy used  at  distribution  centers, beginning  in  FY2016.                                                                   
+             ²In  FY2016,  we  began tracking electricity used  at  colocation  facilities  as  part of  Apple’s footprint.                              
+             ³For  ease of  accounting, we  calculate  our  progress toward  100  percent renewable  energy  on  a  calendar  year basis,  while  we  tra
+             2016,  96  percent of  the  1,572  million  kWh  electricity  we  used  came  from  renewable sources.                                      
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                           Environmental  Responsibility  Report    |    2017 Progress  Report,  Covering  FY2016 40     

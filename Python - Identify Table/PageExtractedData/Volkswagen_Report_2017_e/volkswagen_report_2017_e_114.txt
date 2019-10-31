@@ -1,0 +1,81 @@
+VOLKSWAGEN GROUP SUSTAINABILITY REPORT 2017
+114
+Appendix  |  GRi COnTenT index
+GRI CONTENT INDEX
+GRI  
+Standard
+Disclosure References Comments UNGC SDG GSC
+NON-DISCRIMINATION
+GRi 103: Management Approach 2017
+103-1 explanation of the material topic and 
+its Boundary 
+72, 85 6 2, 4
+103-2 The management approach and its 
+components 
+72–74, 83, 85–87 6 3, 6, 14, 
+15, 17
+103-3 evaluation of the management 
+approach 
+72–73, 85–86 6 3, 7
+GRi 406: non-discrimination 2017
+406-1 incidents of discrimination and 
+ corrective actions taken 
+40–41;
+Annual Report 2017: 
+ Ombudsman System
+in the event of discrimination, the Company will take 
+appropriate action against an individual who is acting in a 
+discriminatory way; sanctions range from a formal warning 
+through relocation to dismissal. if an employee feels he or 
+she is being discriminated against, the Company not only 
+meets the statutory provisions for reporting a grievance, but 
+also provides the individual concerned with access to trained 
+personnel for support and advice.
+6 5, 8, 16 16, 17
+FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING
+GRi 103: Management Approach 2017
+103-1 explanation of the material topic and 
+its Boundary 
+72 1, 2, 3 2, 4
+103-2 The management approach and its 
+components 
+72–74, 76–77 1, 2, 3 3, 6, 14, 17
+103-3 evaluation of the management 
+approach 
+72–73, 76–77 1, 2, 3 3,7
+GRi 407: Freedom of Association and Collective Bargaining 2017
+407-1 Operations and suppliers in which the 
+right to freedom of association and 
+collective bargaining may be at risk 
+76 1, 2, 3 8 17
+CHILD LABOR 
+GRi 103: Management Approach 2017
+103-1 explanation of the material topic and 
+its Boundary 
+89 1, 2, 5 2, 4
+103-2 The management approach and its 
+components 
+89–91 1, 2, 5 3, 6, 14, 17
+103-3 evaluation of the management 
+approach 
+1, 2, 5 3,7
+GRi 408: Child Labor 2017
+408-1 Operations and suppliers at significant 
+risk for incidents of child labor 
+89 1, 2, 5 16 17
+FORCED OR COMPULSORY LABOR
+GRi 103: Management Approach 2017
+103-1 explanation of the material topic and 
+its Boundary 
+89 1, 2, 4 2, 4
+103-2 The management approach and its 
+components 
+89–90 1, 2, 4 3, 6, 14, 17
+103-3 evaluation of the management 
+approach 
+89–90 1, 2, 4 3,7
+GRi 409: Forced or Compulsory Labor 2017
+409-1 Operations and suppliers at  significant 
+risk for incidents of forced or 
+ compulsory labor 
+89 1, 2, 4 8 17

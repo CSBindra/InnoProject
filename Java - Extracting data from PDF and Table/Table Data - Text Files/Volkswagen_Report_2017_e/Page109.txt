@@ -1,0 +1,110 @@
+                                                                                                                                                    
+                                                      VOLKSWAGEN GROUP SUSTAINABILITY  REPORT  2017                                                 
+                                                                                                                                                    
+                                                              Appendix    |  GRi COnTenT  index                                                     
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+         GRI CONTENT  INDEX                                                                                                                         
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+          GRI      Disclosure                      References              Comments                            UNGC      SDG       GSC              
+          Standard                                                                                                                                  
+          GRi  206:  Anti-Competitive  Behavior  2017                                                                                               
+                                                                                                                                                    
+          206-1    Legal  actions  for  anti-competitive  Annual  Report  2017: Litigation                     10        16        20               
+                   behavior,  anti-trust,  and  monopoly                                                                                            
+                   practices                                                                                                                        
+                                                                                                                                                    
+          GRi STAndARdS:     enViROnMenTAL      TOpiCS                                                                                              
+                                                                                                                                                    
+                                                                                                                                                    
+          MATERIALS                                                                                                                                 
+                                                                                                                                                    
+          GRi  103:  Management  Approach  2017                                                                                                     
+                                                                                                                                                    
+          103-1    explanation  of  the  material topic  and  50,  64                                          7,  8, 9            2,  4            
+                   its  Boundary                                                                                                                    
+                                                                                                                                                    
+          103-2    The  management  approach  and  its 50–54                                                   7,  8, 9            3,  6, 11,  12   
+                   components                                                                                                                       
+                                                                                                                                                    
+          103-3    evaluation  of  the  management 50–51                                                       7,  8, 9            3,  7            
+                   approach                                                                                                                         
+                                                                                                                                                    
+          GRi  301:  Materials  2017                                                                                                                
+                                                                                                                                                    
+          301-1    Materials  used by  weight or  volume  64–65                                                8,  9     8,  12    11,  12          
+          301-2    Recycled  input  materials  used  64–65                                                     8,  9     8,  12    11,  12          
+                                                                                                                                                    
+          301-3    Reclaimed  products  and  their  packaging 64                                               8,  9     8,  12    11,  12          
+                   materials                                                                                                                        
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+          ENERGY                                                                                                                                    
+                                                                                                                                                    
+          GRi  103:  Management  Approach  2017                                                                                                     
+          103-1    explanation  of  the  material topic  and  50,  55, 59                                      7,  8, 9            2,  4            
+                   its  Boundary                                                                                                                    
+          103-2    The  management  approach  and  its 50–62                                                   7,  8, 9            3,  6, 10,       
+                   components                                                                                                      11,  12          
+                                                                                                                                                    
+          103-3    evaluation  of  the  management 50–51                                                       7,  8, 9            3,  7            
+                   approach                                                                                                                         
+                                                                                                                                                    
+          GRi  302:  energy  2017                                                                                                                   
+          302-1    energy  consumption  within the 60                                                          8         7,  12, 13 11,  12         
+                    organization                                                                                                                    
+          302-2    energy  consumption  outside  of  the  —                energy  consumption  not  indicated; we report   8, 9 7, 8, 12, 13 11    
+                   organization                                            Scope  3  emissions instead  (see  GRi  305-3).                          
+                                                                                                                                                    
+          302-3    energy  intensity               60                                                          8         7,  8, 12,  13 11          
+                                                                                                                                                    
+          302-4    Reduction  of energy  consumption  59–62                                                    8,  9     7,  8, 12,  13 10, 12      
+                                                                                                                                                    
+          302-5    Reduction  in  energy requirements  of  58–59                                               8,  9     7,  8, 12,  13 10, 12      
+                   products  and services                                                                                                           
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+          WATER                                                                                                                                     
+                                                                                                                                                    
+          GRi  103:  Management  Approach  2017                                                                                                     
+          103-1    explanation  of  the  material topic  and  50,  65                                          7,  8               2,  4            
+                   its  Boundary                                                                                                                    
+          103-2    The  management  approach  and  its 50–54,  65–66                                           7,  8               3,  6, 11,  12   
+                   components                                                                                                                       
+          103-3    evaluation  of  the  management 50–51                                                       7,  8               3,  7            
+                   approach                                                                                                                         
+                                                                                                                                                    
+          GRi  303:  Water  2017                                                                                                                    
+          303-1    Water  withdrawal  by  source   65–66                                                       8         6         11,  12          
+                                                                                                                                                    
+          303-2    Water  sources  signifcantly  afected  by  65                                               8         6         11,  12          
+                   withdrawal  of water                                                                                                             
+                                                                                                                                                    
+          303-3    Water  recycled  and  reused    —                       Total  volume  of  recycled water  not indicated;  data  8 6,  8,  1211, 
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                                                                                                    
+                                                                         109                                                                        

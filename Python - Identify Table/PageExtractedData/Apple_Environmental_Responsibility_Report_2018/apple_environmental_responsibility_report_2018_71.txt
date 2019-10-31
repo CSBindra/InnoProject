@@ -1,0 +1,40 @@
+71Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Corporate Fiber Footprint Review 
+Client: Apple Inc. 2
+? Assumptions and estimations made are appropriate 
+? Use of supplier data is appropriate and methodologies used are adequately 
+disclosed 
+All results and figures reviewed for fiscal year 2017 are plausible. 
+2 Reviewed Data and Findings 
+As part of this review Apple disclosed following data to Fraunhofer IZM:  
+? Calculation methodology for the comprehensive fiber footprint 
+? Sales data for FY2017, including accessories 
+? Aggregated fiber data for all products and the total comprehensive fiber footprint 
+for the fiscal year 2017 
+The methodology paper (Fiber Footprint at Apple - Methodology Description - V1.1) 
+provided by Apple and reviewed last year, is considered a sound and appropriate guidance 
+for determining the comprehensive fiber footprint. Where appropriate, this approach 
+follows methodological principles applied for state-of-the-art Life Cycle Assessments. 
+Plausibility of some data has been questioned and discussed with Apple in detail. 
+Corrections were made accordingly.This review was done remotely. All questions raised in 
+the course of the review were answered by Apple and related evidence was provided 
+where needed.   
+Based on the process and procedures conducted, there is no evidence that the 
+comprehensive fiber footprint is not materially correct and is not a fair representation of 
+fiber data and information. The excellent analysis meets the principles of good scientific 
+practice.    
+ 
+Berlin, April 5, 2018 
+   
+- Marina Proske -  - Karsten Schischke - 
+Fraunhofer IZM  Fraunhofer IZM 
+Dept. Environmental and Dept. Environmental and  
+Reliability Engineering  Reliability Engineering 

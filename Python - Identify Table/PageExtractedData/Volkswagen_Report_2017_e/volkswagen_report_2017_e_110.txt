@@ -1,0 +1,79 @@
+VOLKSWAGEN GROUP SUSTAINABILITY REPORT 2017
+110
+Appendix  |  GRi COnTenT index
+GRI CONTENT INDEX
+GRI  
+Standard
+Disclosure References Comments UNGC SDG GSC
+BIODIVERSITY
+GRi 103: Management Approach 2017
+103-1 explanation of the material topic and 
+its Boundary 
+50, 68 7, 8 2, 4
+103-2 The management approach and its 
+components 
+54, 68 7, 8 3, 6, 11, 12
+103-3 evaluation of the management 
+approach 
+50–51 7, 8 3, 7
+GRi 304: Biodiversity 2017
+304-1 Operational sites owned, leased, 
+ managed in, or adjacent to, protected 
+areas and areas of high biodiversity 
+value outside protected areas 
+68, 101 8 6, 14, 15 11
+304-2 Significant impacts of activities, prod-
+ucts, and services on biodiversity 
+68;
+Mission Statement on 
+Biodiversity, engagement for 
+biodiversity  
+(www.volkswagenag.com/de/
+sustainability/policy.html)
+8 6, 14, 15 11
+304-3 Habitats protected or restored  68;
+Mission Statement Biodiversi-
+ty, engagement for biodiversity 
+(www.volkswagenag.com/de/
+sustainability/policy.html)
+8 6, 14, 15 11
+304-4 Species with habitats in areas affected 
+by operations 
+68 8 6, 14, 15 11
+EMISSIONS
+GRi 103: Management Approach 2017
+103-1 explanation of the material topic and 
+its Boundary 
+50, 55, 59 7, 8, 9 12, 13, 14, 
+15
+2, 4
+103-2 The management approach and its 
+components 
+50–59, 61–63 7, 8, 9 12, 13, 14, 
+15
+3, 6, 11, 
+12, 13
+103-3 evaluation of the management 
+approach 
+50–51 7, 8, 9 12, 13, 14, 
+15
+3, 7
+GRi 305: emissions 2017
+305-1 direct (Scope 1) GHG emissions  60 8, 9 3, 12, 13, 
+14, 15
+13
+305-2 energy indirect (Scope 2) GHG emissions  61 8, 9 3, 12, 13, 
+14, 15
+13
+305-3 Other indirect (Scope 3) GHG emissions  62 8, 9 3, 12, 13, 
+14, 15
+13
+305-4 GHG emissions intensity  61 8 13, 14, 15 13
+305-5 Reduction of GHG emissions  61–62 8, 9 13, 14, 15 13
+305-6 emissions of ozone-depleting substanc-
+es (OdS) 
+— no significant emissions 8, 9 3, 12, 13 13
+305-7 nitrogen oxides (nOX), sulfur oxides 
+(SOX), and other significant air emissions 
+67, 99–100 8, 9 3, 12, 13, 
+14, 15

@@ -1,0 +1,51 @@
+44Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+Solar + Geothermal
+In early 2017 we again used the green energy option for our third Nevada 
+solar array, a 200-megawatt project called Techren Solar—Apple‘s largest 
+solar array to date. It is set to come online by the end of 2018 and is 
+estimated to produce over 540 million kilowatt-hours of clean, renewable 
+energy a year.
+Reno Nevada—100% renewable since opening December 2012
+NV Energy – North Default Grid Mix Apple Actual Renewable Energy Use
+Natural Gas 52% Apple’s Solar PV Projects 53%
+Coal 22% Other Solar PV (PPA) 47%
+Other 3%
+Renewable 23%
+2016 Default Emissions 
+(mtons CO?e/year)
+31,222 2016 Effective Emissions 
+(mtons CO?e/year)
+0
+https://www.nvenergy.com/bill_inserts/2017/Power_ 
+Content_Insert_NVE-North_2017-01.pdf
+Actual fiscal year 2016 energy data
+Mesa, Arizona
+Our newest data center, our global command center in Mesa, Arizona, 
+came online in 2016. To support this facility, we partnered with the local 
+utility, the Salt River Project, to build the 50-megawatt Bonnybrooke solar 
+array, which became operational in October 2016. This project produces 
+over 147 million kilowatt-hours of clean, renewable energy a year, which 
+more than fully matches the energy used by the data center.
+Mesa Arizona—100% renewable since opening March 2017*
+Salt River Project (SRP) Default Grid Mix Apple Actual Renewable Energy Use
+Coal 53% SRP Solar PV Purchase 100%
+Nuclear 18%
+Natural Gas/Other 17%
+Renewable 12%
+2016 Default Emissions 
+(mtons CO?e/year)
+7601 2016 Effective Emissions 
+(mtons CO?e/year)
+0
+https://www.srpnet.com/about/stations/pdfx/2014irp.pdf Actual fiscal year 2016 energy data
+*Apple took operational control of the building in October 2015 and converted it to a data center that began servicing customers in  
+March 2017.
+Viborg, Denmark
+We’re currently constructing a new data center running on 100 percent 
+renewable energy in Denmark’s central Jutland region. Due to its proximity 
+to one of Denmark’s largest electrical substations, the data center won’t 
+require back-up generators, which typically run on diesel and require 
+periodic testing and burning of fuel. The facility is designed to capture 
+excess heat from its equipment and conduct it into the local district 
+heating system to help warm homes in the community. 
+Solar Array

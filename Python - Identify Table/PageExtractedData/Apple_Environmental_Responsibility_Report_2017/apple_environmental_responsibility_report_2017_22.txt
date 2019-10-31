@@ -1,0 +1,55 @@
+22Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+The vast majority of our product water footprint is found in manufacturing, 
+so in 2013 we established the supplier Clean Water Program to help our 
+partners conserve water and prevent water pollution. We put a special 
+emphasis on working with suppliers with high water usage and in water 
+scarce regions, as well as makers of components that our life cycle water 
+assessments have identified as particularly water-intensive. These  
+life cycle assessments include water that’s consumed in energy production—
+such as for oil extraction, distillation, and processing—as well as non-
+energy sources including water consumed during metals processing and 
+product recycling. Through employee training, baseline assessments, 
+performance evaluations, and technical support, we helped our suppliers 
+conserve more than 3 billion gallons of water in 2016 alone, increasing 
+average water reuse to 36 percent across 86 sites. And since many of our 
+suppliers also build components for other companies, we’re reducing the 
+water footprint of non-Apple products too.
+Since our Clean Water Program began, 
+we’ve helped our suppliers save more 
+than 8 billion gallons of water—enough 
+to provide every person on the planet 
+with 18 glasses of water.
+8 billion
+0
+50
+100
+150
+200
+250
+Retail StoresCorporate OfficesData Centers
+Millions of gallons
+Low
+Low-Medium
+Medium-High
+High
+We mapped our water use to different 
+levels of water risk (as defined by 
+WRI’s Aqueduct tool) across the world 
+to understand where we should be 
+focusing our conservation efforts. Water 
+risk takes into consideration indicators 
+such as water scarcity, business risk, 
+and habitat and livelihood impact to the 
+basins in which we operate.
+Source: World Resources Institute (WRI) Aqueduct, 
+www.wri.org/our-work/project/aqueduct
+How we think about water.
+The impact of water use varies significantly depending on the watershed 
+conditions where the water is being used. So we’ve continued to look 
+at more sophisticated ways to measure and analyze our water use. The 
+way we manage water is different based on the climate and nature of our 
+operations across our facilities, whether it’s our data centers, corporate 
+offices, manufacturing sites, or retail stores. We map our global water 
+use against scarcity indicators. This analysis helps us prioritize our 
+conservation efforts across our operations.
+Corporate water use by level of risk (FY2016)

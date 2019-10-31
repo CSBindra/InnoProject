@@ -1,0 +1,278 @@
+38Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+Scopes 1 and 2 Building Carbon  
+Emissions (metric tons CO?e)
+Fiscal Year 2016
+Scope 1¹ Scope 2²
+Location Default Utility Emissions³ Apple Emissions (incl. Renewable Energy) Default Utility Emissions³
+Apple Emissions  
+(incl. Renewable Energy)
+Corporate
+Cupertino, CA
+Elk Grove, CA
+Austin, TX
+Other U.S.
+Cork, Ireland
+Singapore
+China
+Other International
+22,109
+18,693
+397
+248
+883
+780
+65
+38
+1005
+20,537
+17,121
+397
+248
+883
+780
+65
+38
+1005
+166,990
+52,884
+3790
+32,305
+7476
+8915
+8084
+10,878
+42,658
+30,408
+0
+0
+0
+0
+0
+0
+0
+30,408
+Data centers
+Maiden, NC
+Newark, CA 
+Prineville, OR
+Reno, NV
+Mesa, AZ
+Colocation Facilities?
+28,731
+26,119
+139
+1077
+713
+683
+ — 
+2738
+126
+139
+1077
+713
+683
+ — 
+334,824
+103,296
+24,993
+83,912
+31,222
+7601
+83,800
+2269
+0
+0
+0
+0
+0
+2269
+Retail stores
+Domestic (U.S.)
+International
+3679
+1597
+2082
+3679
+1597
+2082
+97,708
+42,050
+55,658
+8924
+0
+8924
+Totals 54,519 26,954 599,522 41,601
+Fiscal Year 2015
+Corporate
+Cupertino, CA
+Elk Grove, CA
+Austin, TX
+Other U.S.
+Cork, Ireland
+Singapore
+China
+Other International
+16,960
+14,792
+369
+233
+121
+892
+0
+117
+435
+15,423
+13,256
+369
+233
+121
+892
+0
+117
+435
+106,134
+42,074
+3279
+20,874
+2715
+6227
+5310
+9050
+16,605
+19,564
+0
+0
+0
+0
+0
+3767
+2201
+13,596
+Data centers
+Maiden, NC
+Newark, CA
+Prineville, OR
+Reno, NV
+24,543
+24,530
+0
+13
+0
+136
+123
+0
+13
+0
+186,586
+99,907
+26,519
+39,507
+20,653
+0
+0
+0
+0
+0
+Retail stores
+Domestic (U.S.)
+International
+3800
+2269
+1531
+3800
+2269
+1531
+86,070
+42,543
+43,527
+22,893
+0
+22,893
+Totals 45,303 19,359 378,790 42,457
+Fiscal Year 2014
+Corporate
+Cupertino, CA
+Elk Grove, CA
+Austin, TX
+Other U.S.
+Cork, Ireland
+Singapore
+China
+Other International
+16,716
+14,310
+411
+148
+115
+1000
+51
+385
+296
+15,335
+12,929
+411
+148
+115
+1000
+51
+385
+296
+86,842
+36,496
+2516
+15,149
+2270
+7678
+6852
+8577
+7304
+21,555
+0
+0
+0
+0
+0
+6852
+8577
+6126
+Data centers
+Maiden, NC
+Newark, CA
+Prineville, OR
+Reno, NV
+26,854
+26,835
+0
+18
+0
+18
+0
+0
+18
+0
+148,320
+92,306
+38,278
+10,392
+7344
+0
+0
+0
+0
+0
+Retail stores
+Domestic (U.S.)
+International
+5355
+2812
+2543
+5355
+2812
+2543
+82,770
+45,041
+37,729
+41,658
+11,036
+30,662
+Totals 48,924 20,708 317,932 63,213

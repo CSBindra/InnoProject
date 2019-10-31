@@ -1,0 +1,100 @@
+50Microsoft 2015 Citizenship Report
+After the initial baseline assessment, the SEA  
+team monitors the performance of all directly 
+contracted suppliers. Third-party auditors audit 
+SEA conformance with our Tier 1 suppliers annu-
+ally and our Tier 2 suppliers based on their risk 
+level. Microsoft’s SEA team supplements these 
+third-party audits with regular onsite assessments 
+of Tier 1 factories and high- and medium-risk  
+Tier 2 component suppliers. 
+In cases when nonconformances are detected, our 
+SEA team works closely with suppliers to develop 
+corrective action plans to resolve detected issues, 
+including building needed capabilities through 
+education and training. Suppliers are required  
+to identify the root cause, establish a corrective 
+course of action, and implement preventive 
+actions for all issues found. Suppliers must  
+correct issues within specific deadlines based  
+on the severity of the nonconformance or risk 
+termination of our business.
+Beyond auditing, learning directly from workers is a 
+key priority. In FY14, we launched an anonymous 
+and factory-independent worker grievance hotline 
+pilot project. This program continued to scale and 
+increase in quality and efficiency in FY15, though  
+a new partnership with China Labor Support 
+Network. In its first year of operation, we rolled  
+out the hotline in five Tier 1 factories and one  
+Tier 2 factory. The hotline launch included worker 
+orientations to encourage use of the hotline and  
+to encourage factory management to consider  
+the hotline as a resource for workplace labor and 
+environment, health, and safety issues. In its first 
+year of operation, the hotline received a total of  
+232 inquiries. The three most frequent topics were 
+related to wages and benefits, factory procedure 
+and policy, and living conditions. Starting in FY16, 
+we will make this hotline available to the rest of our 
+Tier 1 suppliers in China and select Tier 2 suppliers.
+ 
+SEA Audit and  
+Assessment Findings
+In FY15, we completed 314 third-party audits and 
+Microsoft assessments of 138 suppliers. These 
+audits and assessments continue to provide us 
+with insight into the needs and challenges of our 
+supply chain and guide our investments in supplier 
+capability and future improvements.  
+In this report, we disclose all findings of critical/
+serious nonconformance with our SEA require-
+ments. These critical/serious findings were 
+escalated to Microsoft senior management, and 
+the suppliers were placed on restricted status with 
+no new Microsoft business awarded until the 
+issues were resolved. In all instances, the suppliers 
+instituted corrective action plans that were 
+approved by Microsoft and follow-up audits 
+confirmed that the suppliers were implementing 
+the corrective action plans.
+In the following SEA Audit and Assessment Results 
+table, we provide year-over-year data on findings  
+of critical/serious nonconformance with the require-
+ments covered in these audits and assessments.
+Changes in the number of audits and assessments 
+conducted each year and the scope of those 
+audits cause fluctuations in year-over-year  
+comparisons. In addition, we are always learning 
+during the course of our work, which results in 
+improvements to our program and can increase 
+findings. Nonetheless, to better facilitate compari-
+sons going forward, this year we also report 
+nonconformance percentages of suppliers audited 
+in addition to reporting total findings. 
+We typically see improvements in performance 
+after working with suppliers on an ongoing basis 
+on previously addressed issues. For the first time, 
+this year we also broke out findings by new and 
+existing suppliers. New suppliers are those new  
+to the Microsoft Device Supply Chain and audited 
+for the first time, while existing suppliers are those 
+which received audits and assessments in the past. 
+While informative, we emphasize that the percent-
+ages are affected by our raising the bar on supplier 
+performance year over year and enhancement of 
+audit quality and auditor requirements.
+6.2 Social and Environmental Accountability
+in Our Device and Supply Chain Group
+Our Company Our People Human Rights Responsible  
+Sourcing and 
+Manufacturing
+Ethical Business 
+Conduct and 
+Governance
+Environmental 
+Sustainability
+Empowering 
+Communities
+Performance 
+Highlights

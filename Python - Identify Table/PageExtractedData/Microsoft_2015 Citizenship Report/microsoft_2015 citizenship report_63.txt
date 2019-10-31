@@ -1,0 +1,98 @@
+63Microsoft 2015 Citizenship Report
+7.3 Our Business Practices
+We are mindful that environmental stewardship needs to begin with our own 
+operational practices, which includes delivering on our commitment to be 
+carbon neutral and to procure 100 percent renewable energy.
+ 
+Carbon Neutrality  
+Commitment and Carbon Fee
+Since July 1, 2012, Microsoft has achieved carbon 
+neutrality across our global operations, spanning 
+more than 100 countries, for our datacenters, 
+software development labs, offices, business air 
+travel, and (as of July 1, 2015) Microsoft-owned 
+manufacturing operations. Our carbon neutral 
+strategy hinges on company-wide accountability, 
+achieved through an internal carbon fee 
+cascaded globally to our business groups. 
+This chargeback model puts a price on carbon 
+and makes the company’s business divisions 
+responsible for the cost of reducing and compen-
+sating for the carbon emissions associated with 
+their electricity use and air travel. The carbon 
+fee funds energy efficiency investments, purchas-
+ing renewable energy equal to 100 percent of our 
+consumption (with the green power purchases 
+in the same markets as our operations wherever 
+possible) and externally certified carbon 
+offset projects. 
+In April 2015 Microsoft released a whitepaper 
+describing the progress made with our carbon 
+fee since its inception, in the hope to inspire other 
+organizations to take similar action. Among the 
+results it details: since the inception of the carbon 
+fee, we have purchased more than 10 million 
+megawatt-hours (MWh) of green power, reduced 
+our emissions by 7.5 million metric tons of carbon 
+dioxide equivalent (mtCO2e), saved more than 
+$10 million a year, and had an impact on more 
+than 3.2 million people in emerging nations 
+through carbon offset community projects. 
+Besides our carbon neutrality commitment, we 
+have a 100 percent renewable energy commit-
+ment, which we meet through direct purchases of 
+renewable energy and the purchase of renewable 
+energy credits. We currently use directly purchased 
+renewable electricity to power 23 percent of our 
+operations, and are exploring opportunities to 
+expand our direct purchase of renewable energy 
+and support the construction of new renewable 
+energy projects. In FY15 we purchased more than 
+3.2 billion kilowatt-hours (kWh) of renewable 
+energy, and in January 2015 the US Environmental 
+Protection Agency ranked us as the second-
+largest user of green power in the US. The new 
+110-megawatt (MW) Keechi Wind project that we 
+funded through a 20-year agreement to purchase 
+100 percent of its output came online in FY15, and 
+we also announced an even larger power pur-
+chase agreement for all of the output of the new 
+175-MW Pilot Hill Wind Project. We also generate 
+a small amount of onsite renewable energy, such 
+as from solar panels covering the rooftops on our 
+Silicon Valley campus. Finally, access to renewable 
+energy is among the criteria that we consider in 
+siting datacenters, and a number of our datacen-
+ters, like our complex in Quincy, Washington, are 
+powered by hydroelectricity.
+In order of preference, we seek to use renewable energy by:
+1
+Connecting facilities directly 
+to renewable energy sources 
+where feasible.
+3
+Investing in green power 
+(RECs) to match our total 
+electricity usage with the 
+equivalent number of 
+RECs that are credible, are 
+verifiable, and add additional 
+renewable energy to the grid.
+2
+Signing long-term renewable 
+power purchase agreements 
+in regions where we  
+have operations and those 
+projects are viable.
+Our Company Our People Human Rights Responsible  
+Sourcing and 
+Manufacturing
+Ethical Business 
+Conduct and 
+Governance
+Environmental 
+Sustainability
+Empowering 
+Communities
+Performance 
+Highlights

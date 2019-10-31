@@ -1,0 +1,36 @@
+1 The Science Based Targets initiative (SBTi) is a collaboration between CDP, the United Nations Global Compact (UNGC), the World Resources Institute (WRI) and the World Wildlife Fund (WWF), and is one of the We Mean 
+Business Coalition commitments. The SBTi validated Walmart’s greenhouse gas emissions reduction target as science-based in November 2016, indicating that the target is in line with the level of decarbonization required to keep 
+global temperature increase below 2° C compared with pre-industrial temperatures.
+2 Based upon total average Index scores achieved by participating suppliers in categories where the Index is available in calendar year 2018 as compared to 2016.
+3 Decline in emissions (Scope 1 and 2) between 2015 and 2017 is adjusted for most recent grid factors. On an unadjusted basis (as reported to CDP, using grid factors available in the year of reporting), the decline was 11.2%. 
+Measurement accounts for changes in majority-owned subsidiaries over time through corresponding adjustments to baseline and year of measurement. 
+4 Based on review of material handling and waste diversion processes in Argentina, Canada, Central America, Chile, Japan, Mexico, South Africa, U.K. and U.S., as reported by waste vendors, food banks and stores. In cases where 
+real numbers were not available due to industry challenges, they have been estimated based on industry acceptable standards.
+5 This considers the combined contribution of the renewable energy credits and power generated from on-site and off-site projects, as well as renewable energy that we receive from utility-owned renewable generation feeding 
+into the grids where our sites are located. At the time this report was prepared, calendar year 2017 was the most recent year for which we had third-party-verified energy consumption data. This was used in combination with the 
+electricity procured from our renewable energy projects in 2018 and the most recent grid fuel mix information obtained from the International Energy Agency for the regions where we operate.
+6 Zero waste is based on the requirements and definition from the Zero Waste International Alliance (ZWIA) business recognition program. The ZWIA definition of zero waste is achieving 90% or more diversion of all discarded 
+resources from landfills, incinerators and the environment. Zero waste goal and reporting scope includes waste materials and products generated in Walmart’s owned facilities and its operations (stores, clubs, warehouses, return 
+centers, truck maintenance garages, etc.).
+7 Decline in emissions (Scopes 1 and 2) between 2015 and 2017 is adjusted for most recent grid factors. On an unadjusted basis (as reported to CDP, using grid factors available in the year of reporting), the decline was 11.2%. 
+Measurement accounts for changes in majority-owned subsidiaries over time through corresponding adjustments to baseline and year of measurement. 
+8 Annual Scopes 1 and 2 greenhouse gas (GHG) emissions and carbon intensities correspond to the results we disclose in response to the annual CDP climate change questionnaire and can be downloaded from the CDP website. 
+The methodology is in accordance with the GHG Protocol Corporate Accounting and Reporting Standard, meaning we use the latest available emissions factors for energy grids at the time of annual reporting to CDP. As a result, 
+emissions reported to CDP in any given year are subject to the grid factors available in the year of reporting. Lucideon CICS independently verified Walmart’s reported Scope 1 and Scope 2 emissions, pursuant to ISO 14064-3 
+(the international standard for verification of greenhouse gas inventories). For more details, please refer to Walmart’s Greenhouse Gas Inventory Methodology attached to our CDP disclosures.
+9 Carbon intensity (Scopes 1 and 2 per revenue) calculation is based on emissions reported to CDP for calendar year (Jan 1-Dec 31) and normalized by total annual revenues as measured by Walmart’s fiscal year (Feb 1-Jan 31). The 
+intensities correspond with the Scopes 1 and 2 emissions as reported in our annual CDP response and have not been adjusted for most recent grid factor updates.
+10 Calculated in accordance with Walmart’s Project Gigaton Accounting Methodology available on the Walmart Sustainability Hub.
+11 Calculated in accordance with Walmart’s Project Gigaton Accounting Methodology available on the Walmart Sustainability Hub. We previously reported year one results as “more than 20 million metric tons”; the exact figure 
+was 21,518,699 metric tons, plus 13,233,733 of “roll-forward” emissions which were not publicly reported and are retroactively being added to the year one total in line with the clarified temporal allocation procedures described 
+in the Project Gigaton Accounting Methodology. 
+12 The Science Based Targets initiative (SBTi) is a collaboration between CDP, the United Nations Global Compact (UNGC), the World Resources Institute (WRI) and the World Wildlife Fund (WWF), and is one of the We Mean 
+Business Coalition commitments. The SBTi validated Walmart’s greenhouse gas emissions reduction target as science-based in November 2016, indicating that the target is in line with the level of decarbonization required to keep 
+global temperature increase below 2° C compared to pre-industrial temperatures.
+13 Decline in emissions (Scopes 1 and 2) between 2015 and 2017 is adjusted for the most recent grid factors. On an unadjusted basis (as reported to CDP, using grid factors available in the year of reporting), the decline was 11.2%. 
+Measurement accounts for changes in majority-owned subsidiaries over time through corresponding adjustments to baseline and year of measurement.
+14 This considers the combined contribution of the renewable energy credits and power generated from on-site and off-site projects as well as renewable energy that we receive from utility-owned renewable generation feeding 
+into the grids where our sites are located. At the time this report was prepared, calendar year 2017 was the most recent year for which we had third-party-verified energy consumption data. This was used in combination with the 
+electricity procured from our renewable energy projects in 2018 and the most recent grid fuel mix information obtained from the International Energy Agency for the regions where we operate.
+ENDNOTES
+91

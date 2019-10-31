@@ -1,0 +1,76 @@
+42Microsoft 2015 Citizenship Report
+5.2 Privacy and Data Security
+Microsoft has a longstanding commitment to ensuring the privacy and security of 
+our customers’ data. We have a strong set of privacy principles and practices that 
+apply company-wide. We incorporate privacy considerations into our design and 
+development processes, offer our customers meaningful privacy choices, and 
+responsibly manage and protect the customer data that we store. 
+We’ve led our industry with privacy protections 
+such as our commitment to not scan Microsoft 
+Outlook or other email services for purposes of 
+targeting online advertising. In October 2014, 
+Microsoft became one of the first companies to 
+sign the Student Privacy Pledge developed by 
+the Future of Privacy Forum and the Software & 
+Information Industry Association to establish a 
+common set of principles to protect the privacy  
+of student information.
+In our ongoing effort to give customers meaning-
+ful data about when and how we collect and use 
+personal data, in June 2015 we updated the Micro-
+soft Services Agreement to provide one place to 
+understand the privacy protections in place for 
+most of Microsoft’s consumer services, including 
+Bing, Cortana, OneDrive, Outlook.com, Skype, 
+and Xbox Live. At the same time, we updated 
+the Microsoft Privacy Statement to provide a 
+single, straightforward resource for understanding 
+Microsoft’s commitments for protecting individual 
+privacy with these services. 
+Our privacy protections have gained external 
+recognition. Microsoft is the first major cloud 
+provider to adopt—and gain independent  
+verification for meeting—the world’s first  
+international standard for cloud privacy, the ISO/
+IEC 27018 standard developed by the International 
+Organization for Standardization to establish a 
+uniform, international approach to protecting 
+privacy for personal data stored in the cloud.  
+This builds on past efforts: in April 2014 we 
+received confirmation from European data  
+protection authorities that Microsoft’s enterprise 
+cloud contracts are in line with “model clauses” 
+under EU privacy laws regarding the international 
+transfer of data, becoming the first company to 
+receive such recognition. 
+With ongoing concerns about government  
+surveillance practices over the past several years, 
+Microsoft has categorically stated that we do not 
+provide any government with direct and unfet-
+tered access to our customers’ data, and we  
+don’t provide any back doors. As we’ve publicly 
+disclosed, if a government wants our customers’ 
+data, it must serve us with the appropriate warrant, 
+court order, or subpoena targeted at specific 
+accounts and identifiers. We reject requests that 
+don’t meet these requirements, and we only 
+provide the data specified in the legal order. 
+Measures we’ve taken over the past two years  
+to ensure we continue to meet our commitments 
+to data privacy and security and earn customers’ 
+trust include expanding our use of encryption 
+across our services, providing choice and transpar-
+ency on data location, and strengthening legal 
+protections for customers. 
+Our Company Our People Human Rights Responsible  
+Sourcing and 
+Manufacturing
+Ethical Business 
+Conduct and 
+Governance
+Environmental 
+Sustainability
+Empowering 
+Communities
+Performance 
+Highlights

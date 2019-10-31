@@ -1,0 +1,60 @@
+32 Barclays PLC Environmental Social Governance Report 2018 home.barclays/annualreport
+Taskforce on climate-related financial disclosures
+TCFD implementation update 
+Transition risk
+Electric Utilities Oil and Gas (sub-set E&P)
+Time Horizon
+Baseline, 2030, 2040 
+ 
+Baseline, 2030, 2040
+Scope
+Sub-sectors: power generation, power transmission and distribution, 
+integrated utilities, electricity production and distribution. 
+Countries: Austria, Belgium, Czech Republic, Denmark, Finland, France, 
+Germany, Iceland, Ireland, Italy, the Netherlands, Norway, Portugal, Spain, 
+Sweden, the UK, and the USA
+Products: liquidity facility loans, revolver/term loans, revolving credit 
+facilities, swingline, letter of credit, municipal letter of credit, and standby 
+letter of credit. 
+Companies were selected that were exclusively involved in Exploration 
+and Production
+Sub-sectors: US shale, Oil Sands, RoW Offshore (mainly Europe)
+Results
+Under the “2040 - 2°C scenario” the climate stressed Exposure at 
+Default-weighted average portfolio PD is 
+?? 2.2x greater in the US relative to 2017
+?? 2.3x greater in the EU relative to 2017.
+Given the majority of the utilities are investment grade, stressed average 
+PDs result in a portfolio that remains largely in the investment grade or 
+high non-investment grade credit categories.
+There were though, high carbon entities heavily dependent on coal that 
+were identified. 
+At High Prices, the impact on estimated loss is limited and back-ended 
+given oil/gas demand (according to Remind 2°C assumptions) declines 
+materially only after 2030.
+At Lower Prices, the impact on borrowers was more severe.
+Next steps
+Engagement can now be targeted to specific companies which could 
+be materially stressed, and to discuss transition plans away from high 
+carbon.
+The quality of the stress tests could be significantly improved if the utilities 
+were to disclose standardised climate relevant risks and data e.g. current 
+generation mix, the expiry date of the licenses of their nuclear capacity.
+Results demonstrate that the book is sensitive to key inputs such as 
+oil & gas prices, which are volatile and difficult to predict. Results are 
+also influenced by assumptions around rate of oil/gas demand 
+volume declines, which may continue to shift as technology develops.
+Key challenges
+The work conducted across all three sectors was resource intensive, and required consequent data extraction as well as generation in the event 
+when they were not internally or externally available. Further, there are many climate scenarios (and models) which could be tested and this 
+pilot provided one approach, with specific assumptions accompanying a specific model. Other models might tackle some of the climate related 
+challenges and make assumptions in a different way.
+Overall outcomes
+The testing of these scenarios proved a useful exercise which informed additions to risk processes including, climate-related risks integration into the 
+Environmental Risk Standard and the Client Assessment Standard, see page 24. Under the scenarios tested there are currently no material climate-
+related financial risks at a sector level, although further testing is required. Barclays acknowledges that climate-related risks are apparent now, and the 
+financial risks will manifest over the medium to longer terms. This work has encouraged a second iteration , which provides a set of qualitative 
+analyses on transition risks for relevant sectors during Risk reviews. These climate-related transition risk reports are intended to provide a top-down 
+view of climate risks when setting risk appetite, as well as helping to shape our scenario analysis capabilities. These involve identifying a number of 
+climate risk attributes in each sector and outlining the impacts of these on economic indicators and sector financial performance.
+For further information on the electric utilities in the United States and Europe, please see p.51 of the UNEP FI report, Extending our Horizons. 

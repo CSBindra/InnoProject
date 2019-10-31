@@ -1,0 +1,39 @@
+21Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+How we contribute back to market depends on the type of material 
+involved. For finite materials such as aluminum, we seek to recover the 
+material from the manufacturing process and from products at their end of 
+life. We then either redirect that material back into our own supply chain, or 
+ensure it is sent to a secondary materials market. For renewable materials 
+such as the wood fiber in our packaging, our focus is on regeneration of 
+supply, meaning that we create, or protect, an equivalent supply of the 
+resource that we use. 
+We hold ourselves to a strict definition of closed loop: To meet our goal, we 
+must use 100 percent responsibly sourced recycled or renewable materials 
+and ensure the equivalent amount is returned to market. Recognizing 
+that this goal could take many years to reach, we remain committed to 
+responsible sourcing of primary materials as we make the transition. 
+Our approach.
+Fundamental to this work is our firm belief that we can transition to recycled 
+or renewable materials without compromising the final product. 
+To prioritize which materials to tackle first, we created Material Impact 
+Profiles for 45 elements and raw materials commonly used in consumer 
+electronics. The profiles identified global environmental, social, and supply 
+risk factors spanning the life of each material. We then combined the 
+impact profiles with data that’s more specific to Apple. Finally, in addition 
+to the weighted score assigned to each material, we also considered 
+additional qualitative factors, like whether a material represents unique 
+opportunities for new closed-loop supply chain models or is significant to 
+the customer experience—like the glass they touch or the paper in their 
+product packaging.
+Through this process, we identified a short list of materials on which to 
+focus our initial efforts. We’ve started working to close the loop on these 
+priority materials, and have active projects for aluminum, cobalt, copper, 
+glass, paper, plastics, stainless steel, tin, tungsten, and rare earth elements 
+(neodymium, praseodymium, dysprosium).
+We’re doing more with less.
+We are making changes to our product designs to reduce the amount of 
+material needed. For example, we changed the way we manufacture the 
+enclosure of the 12.9-inch iPad Pro, replacing the extrusion process with 
+a sheet forge design, resulting in a 73 percent reduction in the amount of 
+aluminum needed. And since 2015, we have reduced primary aluminum 
+consumption across all products by 23 percent, despite increasing sales.

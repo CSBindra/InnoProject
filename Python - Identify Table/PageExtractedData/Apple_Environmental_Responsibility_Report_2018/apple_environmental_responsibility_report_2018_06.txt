@@ -1,0 +1,41 @@
+6Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+Comprehensive Carbon Footprint
+We measure more. So we can do more.
+When we measure our carbon footprint, we don’t stop with ourselves.  
+We include hundreds of suppliers, millions of customers, and hundreds of 
+millions of devices. And we’re always looking for ways to make the biggest 
+difference in five major areas: corporate facilities, manufacturing, product 
+use, transportation, and end-of-life processing. In 2017, we once again 
+reduced our overall carbon footprint to 27.5 million metric tons of greenhouse 
+gases (CO?e). That‘s down from 29.5 million metric tons in 2016. 
+Our environmental programs contributed to this decline in our comprehensive 
+carbon footprint, including reduced emissions from aluminum manufacturing, 
+energy efficiency, and increasing use of clean energy at our facilities and  
+in our supply chain. We also refine our product life cycle analysis each year, 
+moving from industry-average data to our own data whenever possible. 
+(See Appendix A to read more about our life cycle carbon analysis.)
+Apple’s carbon footprint
+27.5 million metric tons of carbon emissions
+77%
+ Manufacturing 
+39% Integrated circuits1
+24% Aluminum
+16% Boards and flexes2
+12% Other3
+5% Displays
+4% Onboard electronics4
+17%
+Product use 
+69%  Active5
+19%  Idle6
+11%  Sleep7
+1%  Off
+<1%
+End of life
+1%
+Corporate facilities
+4%
+Product transportation
+Our carbon footprint tells us a lot about how we’re doing and where there are opportunities to go further. For example, 
+because aluminum represents almost a quarter of our manufacturing emissions, we developed a program to reduce emissions 
+associated with aluminum enclosures.

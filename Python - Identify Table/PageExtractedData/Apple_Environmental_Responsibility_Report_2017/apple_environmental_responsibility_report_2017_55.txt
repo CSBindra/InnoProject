@@ -1,0 +1,40 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corporate Fiber Footprint Review  
+Client: Apple Inc. 1 
+Review Statement 
+Corporate Fiber Footprint 
+Fraunhofer IZM reviewed Apple’s corporate fiber footprint data related to corporate fiber 
+usage from products, corporate, and retail operations in fiscal year 2016.  
+ 
+1 Summary 
+This review checks transparency of data and calculations, appropriateness of supporting 
+product and packaging related data and assumptions, and overall plausibility of the 
+calculated corporate annual fiber footprint of Apple products shipped in fiscal year 2016 
+and of corporate and retail operations in the same period.  
+As there is no standardised method available for calculating a product or company fiber 
+footprint Apple defined a methodology for internal use. The scope of the Fiber Footprint 
+includes Apple’s corporate fiber usage from products, corporate, and retail operations. The 
+fiber footprint tracks the total amount of wood fiber, both virgin and recycled, that Apple 
+uses in packaging, and other paper products. Apple obtains and analyses supplier-specific 
+data for each product line and sums up these figures for the entire company using sell-in 
+numbers. The output is a total fiber footprint.  
+The review of the corporate annual fiber footprint has considered the following criteria: 
+ The system boundaries are clearly defined 
+ Assumptions and estimations made are appropriate 
+ Use of supplier data is appropriate and methodologies used are adequately 
+disclosed 
+Data reported by Apple is as follows: 
+ Total Fiber Virgin Fiber Recycled Fiber 
+2016 131,151 50,210 80,941 
+[metric tons fiber] [metric tons fiber] [metric tons fiber] 
+ 
+All results and figures reviewed for fiscal year 2016 are plausible. 
+55

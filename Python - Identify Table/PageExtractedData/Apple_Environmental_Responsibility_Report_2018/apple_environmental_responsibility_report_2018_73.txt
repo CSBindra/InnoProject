@@ -1,0 +1,38 @@
+73Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Packaging Plastic Footprint Review  
+Client: Apple Inc. 2 
+The two main drivers for the plastic packaging footprint are HIPS (high-impact polystyrene) 
+and adhesives.  
+All results and figures reviewed for fiscal year 2017 are plausible. 
+ 
+2 Reviewed Data and Findings 
+As part of this review Apple disclosed following data to Fraunhofer IZM:  
+? Calculation methodology for the packaging plastic footprint 
+? Sales data for FY2017, including accessories 
+? Selected product and supplier specific data on packaging materials and production 
+yields  
+? Aggregated packaging plastic data for all products and the total packaging plastic 
+footprint for the fiscal year 2017 
+The methodology paper provided by Apple (Packaging Plastic Footprint at Apple – 
+Methodology Description – V1.0) on March 2, 2018, is considered a sound and appropriate 
+guidance for determining the packaging plastic footprint. Where appropriate, this 
+approach follows methodological principles applied for state-of-the-art Life Cycle 
+Assessments.  
+This review comprises a check of packaging plastic data for selected products (iPhone, iPad, 
+MacBook). For Beats products, it was explained which products where asessed in detail and 
+for which products representative data was used. 
+Plausibility of some data has been questioned and discussed with Apple in detail. 
+Corrections were made accordingly. Similarly, scope for the packaging plastic and fibre 
+footprint have been discussed. Including ink use of photobooks in future footprints is 
+suggested for consistency between plastic and fibre footprint, although the impact on the 
+overall packaging plastic footprint is expected to be low.  
+This review was done remotely. All questions raised in the course of the review were 
+answered by Apple and related evidence was provided where needed.   

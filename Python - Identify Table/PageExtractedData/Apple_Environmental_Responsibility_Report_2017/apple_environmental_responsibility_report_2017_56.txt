@@ -1,0 +1,46 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corporate Fiber Footprint Review  
+Client: Apple Inc. 2 
+ 
+2 Reviewed Data and Findings 
+As part of this review Apple disclosed following data to Fraunhofer IZM:  
+ Calculation methodology for the corporate fiber footprint 
+ Sales data for FY2016, including accessories 
+ Selected product and supplier specific data on packaging design (including CAD 
+design drawings), materials (distinction of paper qualities, fiber content, including 
+recycled fiber content), weights and production yields (process yields and cut-off 
+losses) 
+ Aggregated fiber data for all products and the total corporate fiber footprint for 
+the fiscal year 2016 
+The revised methodology paper provided by Apple (Fiber Footprint at Apple - Methodology 
+Description - V1.1) on March 6, 2017, is considered a sound and appropriate guidance for 
+determining the company fiber footprint. Where appropriate, this approach follows 
+methodological principles applied for state-of-the-art Life Cycle Assessments. 
+This review comprises a check of fiber data for selected products, which are most 
+influential to the overall corporate fiber footprint and which represent the full spectrum of 
+Apple products. The selection of products for individual reviews has been agreed between 
+Apple and Fraunhofer IZM. 
+Plausibility of some data has been questioned and discussed with Apple in detail. 
+Corrections were made accordingly. Similarly, system boundaries for the corporate and 
+retail related fiber usage have been discussed and clarified. 
+This review was done remotely. All questions raised in the course of the review were 
+answered by Apple and related evidence was provided where needed.   
+Based on the process and procedures conducted, there is no evidence that the corporate 
+fiber footprint is not materially correct and is not a fair representation of fiber data and 
+information. The excellent analysis meets the principles of good scientific practice.    
+ 
+Berlin, March 8, 2017 
+  
+- Karsten Schischke -  - Dr. Nils F. Nissen - 
+Fraunhofer IZM  Fraunhofer IZM 
+Dept. Environmental and Dept. Environmental and  
+Reliability Engineering  Reliability Engineering 
+56

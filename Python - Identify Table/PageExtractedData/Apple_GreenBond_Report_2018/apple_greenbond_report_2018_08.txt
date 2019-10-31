@@ -1,0 +1,22 @@
+8Annual Green Bond Impact Report  |  2018 Update
+Daisy, Apple’s Materials Recovery Robot
+We are also creating innovative ways to recover the materials used in 
+our products, as part of our work to conserve resources. We created 
+our newest disassembly robot, Daisy, to reclaim more of the valuable 
+materials stored in iPhone. Existing techniques, such as shredding, 
+recover only a few kinds of materials and often diminish their quality. 
+Daisy can take apart up to 200 iPhone devices per hour, removing 
+and sorting components, so we can recover materials that traditional 
+recyclers can’t—and at a higher quality. By disassembling our products, 
+we can direct components and materials to those recyclers who can 
+recover more of the materials. These materials will then be sent back 
+into secondary materials markets or directly back into our supply  
+chain—reducing the need to mine more resources from the earth. 
+Daisy builds on the learnings from Liam, our R&D experiment in 
+automated disassembly that we announced in 2016. We created  
+Daisy to have a smaller footprint and the capability to disassemble 
+multiple models of iPhone with higher variation compared with Liam. 
+Daisy is now up and running in both the U.S. and the Netherlands.  
+Daisy processes end-of-life iPhone 5, iPhone 5s, iPhone SE,  
+iPhone 6, iPhone 6 Plus, iPhone 6s, iPhone 6s Plus, iPhone 7,  
+and iPhone 7 Plus devices.

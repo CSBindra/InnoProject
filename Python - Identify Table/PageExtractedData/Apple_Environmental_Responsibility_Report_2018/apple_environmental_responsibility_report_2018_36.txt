@@ -1,0 +1,52 @@
+36Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+Our Approach 
+Design, manufacture, test. Repeat.
+To help protect people and the planet, we set strict standards for the 
+materials used in our devices—in many cases going far beyond what’s 
+required by law. The evaluation process begins early in the design and 
+manufacturing phases. If replacements for hazardous chemicals aren’t 
+readily available, we work with our suppliers to find substitutions, or explore 
+how to eliminate the need for that substance. When we test replacements, 
+we look for formulations that meet our environmental standards without 
+compromising performance. And, of course, the end product must still live 
+up to the design standards you expect from Apple. 
+Safer materials assurance process
+Through extensive testing, research, and toxicological assessments, we design  
+products to be safe. And then we continue to evaluate products while they’re under-
+going product development and after they’re released to make sure they stay safe.
+• Set standard (Regulated Substances Specification)
+• Educate suppliers
+• Research safer alternatives
+•  Validate compliance to RSS at Environmental Testing 
+ Lab and third-party labs
+• Collect full material disclosure
+•  Conduct toxicological assessments 
+•  Audit suppliers
+• Validate supplier compliance documentation
+•  Test incoming components at final assembly sites
+• Audit suppliers
+•  Test incoming components at final assembly sites 
+Product
+Development
+Post Product
+Release
+Set Policy
+Validation and Toxicology 
+We run our own environmental  
+testing lab.
+We built our own Environmental Testing Lab, where our chemists and 
+toxicologists look for any potentially harmful substances. Since 2006, we 
+have expanded it to more than 30 times its original size, and have regularly 
+updated it with state-of-the-art equipment—like an inductively coupled 
+plasma mass spectrometer, a liquid chromatography mass spectrometer, 
+and a laser-induced breakdown spectrometer similar to the one used by 
+the Mars rover. We’ve even manufactured artificial sweat to simulate human 
+exposure, and to evaluate the safety of our materials that come into contact 
+with skin.
+We screen our materials with  
+comprehensive risk assessment 
+tools, including GreenScreen®, 
+which evaluates substances 
+against 18 different hazards, 
+including carcinogens, mutagens, 
+and endocrine disruptors.

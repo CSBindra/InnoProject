@@ -1,0 +1,49 @@
+53Environmental Responsibility Report  |  2018 Progress Report, Covering FY2017
+Among Maiden’s energy efficiency features is the use of outside air cooling 
+through a waterside economizer during night and cool-weather hours, 
+which, along with water storage, allows the chillers to be turned off more 
+than 75 percent of the time.
+Maiden, North Carolina—100% renewable since opening June 2010
+273 million kWh energy use in fiscal year 2017
+Duke Energy Default Grid Mix Apple Actual Renewable Energy Use
+Nuclear 51% Apple’s Solar PV Projects 42%
+Coal 33% Apple’s Biogas Fuel Cells 27%
+Other 16% Duke Green Source Rider (100% solar PV) 12%
+Renewable <1% NC GreenPower (100% solar PV) 19%
+2017 Default Emissions 
+(mtons CO?e/year)
+100,480 2017 Effective Emissions 
+(mtons CO?e/year)
+0
+From Duke Energy Carolinas 2015 Statistical  
+Supplement generation data
+Actual fiscal year 2017 energy data
+Newark, California
+Our data center in Newark, California, is powered by 100 percent renewable 
+energy. We hit this milestone in January 2013, when we began serving the 
+data center with energy sourced primarily from California wind power. We’re 
+acquiring this energy directly from the wholesale market through California’s 
+Direct Access program. Late in 2017, Apple’s 130-megawatt California Flats 
+solar project in Monterey County, California, came online, and now we use 
+Direct Access to supply power from that project directly to our data center 
+as well as other Apple facilities in California. 
+In fiscal year 2017, the Newark data center was supported by projects  
+that generated 118 million kilowatt-hours of renewable energy, which is 
+equivalent to the energy used by 17,976 California homes.26
+Newark, California—100% renewable since opening January 2013
+118 million kWh energy use in fiscal year 2017
+Pacific Gas & Electric Default Grid Mix Apple Actual Renewable Energy Use
+Natural Gas 17% Bundled Grid (mostly wind) 91%
+Nuclear 24% Grid (mostly wind) 9%
+Other/Unspecified 26%
+Renewable 33%
+2017 Default Emissions 
+(mtons CO?e/year)
+23,300 2017 Effective Emissions 
+(mtons CO?e/year)
+0
+www.energy.ca.gov/pcl/labels/2016_labels/ 
+Pacific_Gas__and__Electric.pdf (From September 2017)
+Actual fiscal year 2017 energy data
+Wind
+Solar + Biogas fuel cells

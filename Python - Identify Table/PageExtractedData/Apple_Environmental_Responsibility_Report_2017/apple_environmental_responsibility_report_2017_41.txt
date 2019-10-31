@@ -1,0 +1,35 @@
+41Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+Appendix B 
+Data Center Energy Supplement
+Apple’s data center presence continues to grow. Each data center  
+has unique design features that reflect the climate and other aspects  
+of its specific site. All of our data centers operate on 100 percent 
+renewable energy and power billions of iMessages, answers from Siri,  
+and song downloads from iTunes. That means no matter how much  
+data they handle, there is a zero greenhouse gas emissions impact  
+from their electricity use. These data centers use renewable energy 
+sources like solar, wind, biogas fuel cells, and micro-hydro power  
+from onsite and locally obtained resources.
+Maiden, North Carolina
+On any given day, between 60 and 100 percent of our Maiden data  
+center’s energy use is generated through 68 megawatts of Apple  
+projects: two 20-megawatt solar arrays, an 18-megawatt solar array,  
+and 10 megawatts of biogas fuel cells. In 2015, we took a new approach  
+to support further growth at our Maiden data center: We partnered with 
+the local utility, Duke Energy, to help build five solar PV projects through 
+Duke Energy’s Green Source Rider program. These solar PV projects, 
+which started coming online in late 2015 to support our Maiden data  
+center, were Duke Energy’s first Green Source Rider projects to become  
+operational. We worked with Duke Energy for several years to develop  
+this green energy tariff option, which allowed Apple and Duke Energy  
+to work together to develop new renewable energy projects. The five  
+projects have a combined peak capacity of 20 megawatts. All told,  
+Apple’s data center will be supported by projects that generate 244  
+million kilowatt-hours of renewable energy a year, which is equivalent  
+to the energy used by 17,906 North Carolina homes.*
+Among Maiden’s energy efficiency features are the use of outside air  
+cooling through a waterside economizer during night and cool-weather 
+hours, which, along with water storage, allows the chillers to be turned  
+off more than 75 percent of the time.
+* Carbon emissions equivalences calculated using U.S. Energy Information Administration, 2015 data:  
+www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf.

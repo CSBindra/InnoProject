@@ -1,0 +1,88 @@
+37Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+KPI Unit
+Fiscal Year
+2016 2015 2014 2013 2012
+Greenhouse Gas 
+Emissions
+Scope 1
+metric tons  
+CO?e
+ 34,320  28,100  28,490  29,300  21,220 
+Natural gas, Diesel,  
+Propane²  26,954  19,360³  20,710  22,090  14,300 
+Fleet vehicles  7370  8740  7780  7210  6920 
+Scope 2?  41,600  42,460  63,210  91,510  139,160 
+Scope 3?  303,910  312,910  259,130  225,630  202,060 
+Business travel  117,550  139,940?  110,940  90,948  85,090 
+Employee commute  186,360  172,970  148,190  134,685  116,970 
+Total Facilities Emissions 
+(Scopes 1, 2, 3)  379,830  383,470  350,830  346,440  362,440 
+Energy Use
+Electricity
+million kWh
+ 1450  996  839  708 608
+U.S.  1170  831  702 590 —
+International  280  166  137 118 —
+Natural gas
+million btu
+ 974,570  851,660  922,860  764,550  304,000 
+U.S.  901,950  794,830 840,490 676,630 240,230
+International  72,620  56,830 82,370 87,920 63,770
+Energy  
+Efficiency?
+Electricity saved as a result of 
+energy efficiency measures 
+(cumulative since 2011)
+kWh  55,288,800 37,875,000 31,225,000 26,241,600 11,354,200 
+Natural gas saved as a result 
+of energy efficiency measures 
+(cumulative since 2011)
+million  
+btu  4,448,300 2,706,900 2,041,900 1,543,600 54,900
+Renewable  
+Energy?
+Renewable energy sourcing 
+(calendar year) %  96  93  87  73  60 
+Emissions avoided as a  
+result of renewable energy 
+sourcing (scopes 1 and 2)
+metric tons CO?e 585,000 362,000  283,000  214,000  118,000 
+Water Use
+Total
+million  
+gallons
+630 573 494 430 345 
+Data centers 207 166  113  69  57 
+Retail 99 111  103  94  71 
+Corporate 324 296  278  267  217 
+Waste  
+Generation
+Landfilled
+pounds
+ 21,618,850  13,110,880  6,833,000  5,923,810  4,850,160 
+Recycled  28,198,560  19,599,570  14,621,940  15,866,650  11,464,020 
+Composted  13,737,320  3,006,170? —? — —
+Hazardous waste  2,287,320  1,002,300  508,040  70,550  123,460 
+Landfill diversion rate % 66 63 68 73 70
+Notes:  
+Apple’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. The Company’s fiscal years 2016, 2015, and 2014 ended on September 24, 2016, September 26, 2015,  
+and September 27, 2014, respectively, and each spanned 52 weeks.
+¹As reported in Apple’s Annual Report filed with the SEC (Form 10-K) for the fiscal year ending September 24, 2016 (fiscal year 2016).
+²Scope 1 emissions for fiscal year 2016 include 261,580 gallons of diesel use in emergency back up generators at data centers and 21,840 kg of propane in corporate offices. Scope 1 emissions for fiscal year 2016 now 
+include natural gas use at distribution centers.
+³In fiscal year 2015, we adjusted our methodology to better reflect locations where natural gas is used. We estimate natural gas usage in offices and retail stores where we are not billed based on usage (e.g., leased
+office space or retail stores within malls). This more accurate methodology resulted in a decrease in emissions in fiscal year 2015.
+?Beginning in fiscal year 2016, we include distribution centers and colocation facilities as part of Apple’s electricity use and association greenhouse gas emissions. We had previously reported colocation center 
+electricity use separately.
+?Scope 3 emissions reported in this table include only those emissions associated with employee commute and business travel, calculated by employee miles traveled. Scope 3 emissions associated with product
+life-cycle emissions are disclosed separately. 
+?In fiscal year 2015, we adjusted our methodology to reflect actual travel instead of booked travel. Using this more accurate methodology revealed overestimates for previous years.
+?Because energy efficiency measures have lasting benefits, energy efficiency savings are calculated cumulatively since 2011.
+?We calculate and report our progress toward 100 percent renewable energy by calendar year. In calendar year 2016, we used 1,572 million kilowatt-hours of electricity worldwide.
+?Prior to fiscal year 2015, composted quantities were reported as part of the “recycled” figure.
+Facilities Environmental Key  
+Performance Indicators 
+The following table summarizes key environmental performance 
+indicators relating to Apple’s global facilities, including our data  
+centers, corporate offices, and almost 490 Apple Stores, together  
+occupied by 116,000 Apple employees.¹ 

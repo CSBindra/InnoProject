@@ -1,0 +1,25 @@
+27Environmental Responsibility Report  |  2017 Progress Report, Covering FY2016
+Product Durability
+A durable device is a greener device.
+When products can be used longer, fewer resources need to be extracted 
+from the earth to make new ones. So we assess all of our products in our 
+Reliability Testing Lab, using rigorous testing methods that simulate our 
+customers’ real-world experiences with their devices. For example, we 
+analyze how devices stand up to extreme heat and cold, exposure to water 
+and everyday chemicals, and scratching tests from materials like steel wool 
+and denim. In addition to industry-standard measures, we also devise our 
+own tests and even build custom testing machinery. We design these tests 
+based on our studies of user behavior and by analyzing returned products 
+to fully understand any problems.
+In the event that something does break, we have programs like AppleCare 
+and Apple-certified repair services to help our customers use their 
+devices longer. We also release regular free software updates that keep 
+our products current and extend their lives as long as possible. And we 
+design those software updates to be compatible with older generations 
+of products. macOS Sierra, for example, is compatible with Mac models 
+dating back to late 2009. And when customers decide to upgrade to new 
+devices, the old ones often have new lives with friends or family, or in the 
+refurbished market through programs like Apple Renew.
+To ensure that they can stand up to 
+repeated use, the keys on MacBook 
+are pressed millions of times.

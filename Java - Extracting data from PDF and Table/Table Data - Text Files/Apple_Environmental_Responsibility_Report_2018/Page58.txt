@@ -1,0 +1,107 @@
+                                                                                                                                                         
+                                                         Energy     Use   and    Emissions      at  Apple’s     Colocation                               
+                                                         Facilities                                                                                      
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                   Total  Energy  Renewable  Default  Utility   Apple’s  Emissions— Percent              
+                                                                   Use (kWh)    Energy  (kWh) Emissions¹      Including  Renewable  Renewable            
+                                                                                             (metric  tons CO?e) Energy²         Energy³                 
+                                                                                                              (metric  tons  CO?e)                       
+                                                                                                                                                         
+                                                          FY2011   42,500       0            10               10                 0%                      
+                                                                                                                                                         
+                                                          FY2012   38,552,300   1,471,680    17,200           16,500             4%                      
+                                                                                                                                                         
+                                                          FY2013   79,462,900   46,966,900   31,800           14,500             59%                     
+                                                                                                                                                         
+                                                          FY2014   108,659,700  88,553,400   44,300           11,000             81%                     
+                                                                                                                                                         
+                                                          FY2015   142,615,000  121,086,100  60,500           12,700             85%                     
+                                                                                                                                                         
+                                                          FY2016?  145,520,900  143,083,200  66,300           1,600              98%                     
+                                                                                                                                                         
+                                                          FY2017   289,195,800  286,378,100  125,600          1,500              99%                     
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                         ¹ W  e  calculate “default  utility  emissions”  to  provide  baseline  emissions  of  what  our
+                                                         renewable  energy. This  allows  us  to  demonstrate  the  savings resulting from  our  renewabl
+                                                         ²    Apple’s greenhouse  gas  emissions  are  calculated using  the  World  Resources Institute 
+                                                          market-based  emissions.                                                                       
+                                                         ³  W  e calculate our  progress  toward  our 100  percent  renewable  energy goal  on a  calenda
+                                                          electricity  used  at  our colocation facilities  was powered  by  renewable  energy.  Beginnin
+                                                         ?    Over the  past  two  years, we  have been  installing  submeters  in colocation  facilities
+                                                          started  reporting  this  submetered electricity usage.  Prior  to  fiscal  year  2016,  report
+                                                          on  maximum  contract capacity  quantities.  We’ve  updated  our  fiscal  year  2016 colocation
+                                                          operational  boundaries.  Per  the  WRI  Greenhouse  Gas Protocol, we‘ve removed  from  our  el
+                                                          emissions  associated  with  colocation  facility  cooling  and  building  operations.  This  e
+                                                                                                                                                         
+                                                         Regional     Energy     Use    at Apple’s     Colocation       Facilities                       
+                                                         (Fiscal   Year    2017)                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                       Total  Energy  Use     Renewable  Energy      Percent                             
+                                                                       (kWh)                  (kWh)                  Renewable  Energy*                  
+                                                                                                                                                         
+                                                          U.S.         228,114,700            228,014,600            100%                                
+                                                                                                                                                         
+                                                          Europe       23,355,300             20,637,700             88%                                 
+                                                                                                                                                         
+                                                          APAC         37,725,800             37,725,800             100%                                
+                                                                                                                                                         
+                                                          FY2017  Total 289,195,800           286,378,100            99%                                 
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                         * We  calculate  our  progress toward  our 100  percent  renewable  energy  goal on  a  calendar
+                                                         electricity  used  at  our colocation  facilities  was  source  with  renewable  energy.  Beginn
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                         Environmental  Responsibility  Report   |    2018 Progress  Report,  Covering  FY2017 58        

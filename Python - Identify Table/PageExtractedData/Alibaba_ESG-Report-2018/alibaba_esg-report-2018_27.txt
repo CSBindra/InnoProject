@@ -1,0 +1,73 @@
+Data Security
+Data	Leakage	Prevention
+Infrastructure Security
+Server Security Hardware Security Network Security Data Center Security
+Business Operations Security
+Transaction Security
+Account Security
+Spam	Prevention
+Fraud	Prevention
+Content Security
+Platform Security
+Mobile Security
+Web Security PC	Security
+IoT Security
+Blockchain Security System Security
+Multi-layer security system
+Cybersecurity continued
+We have developed 
+industry-leading 
+cybersecurity technology 
+and practices that safeguard 
+our e-commerce platforms. 
+We recognize that consumers 
+and merchants rely on us  
+to protect their data on 
+our platforms to ensure 
+business sustainability. 
+We also run the leading cloud computing 
+service in China that many other businesses 
+depend on to safely store data and process 
+transactions,	and	our network	security	
+must be	designed	to	withstand	attempted	
+intrusions.
+We invest heavily and strategically in 
+proprietary systems, cutting-edge 
+technology, and R&D to build and safeguard 
+a secure and protected environment across 
+all our business units, in related companies 
+and with ecosystem partners. Our multi-layer 
+security system provides a comprehensive 
+data security infrastructure for continuous 
+monitoring and system protection 
+throughout all platforms.
+Our Chief Risk Officer (CRO), supported 
+by our	Chief	Technology	Officer	(CTO),	is	
+responsible for cybersecurity. Both the CRO 
+and CTO	directly	report	to	our	CEO.	Our	
+CRO oversees	the	integrity	of	our	IT	system,	
+ensuring	that	our systems	are	sound	and	
+well-defended. Our cybersecurity teams, 
+who	report	to	the CRO,	focus	on	security	
+standards, processes and breach avoidance. 
+We also have a Cybersecurity and Data 
+Protection	Committee	chaired	by	the	CRO	
+that oversees data security issues for all 
+platforms and products across the Group. 
+On a continual basis, our CRO’s cybersecurity 
+team provides a comprehensive framework 
+of compliance training, risk assessment and 
+security testing to the CTO and other teams 
+across our platform. The CRO team also 
+provides continuous monitoring of potential 
+breaches or incidents, including before an 
+incident (through risk assessment), during an 
+incident (through intrusion interception), and 
+after an incident (with source tracking of data 
+breach). We also place security teams in each 
+functional department to help implement 
+Alibaba’s security strategy and manage daily 
+security issues. 
+Alibaba Group Holding Limited ESG Report 2018? 26
+OVERVIEW GOVERNANCE TRUST SOCIAL ENVIRONMENT APPENDIX
+|?INTELLECTUAL PROPERTY RIGHTS PROTECTION?|?CYBERSECURITY?|?DATA PROTECTION?|
