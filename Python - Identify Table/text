@@ -1,0 +1,8 @@
+keyword_list = ["CO\?e", "co\?","Greenhouse", "CO2", "CO₂e", "carbon emission", "greenhouse emission", "greenhouse gasses"]
+
+pattern = r""
+for keyword in keyword_list:
+    pattern = pattern + keyword+"|"
+pattern = pattern[:-1]
+
+found = re.findall(pattern, sentence)
